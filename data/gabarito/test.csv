@@ -1,0 +1,795 @@
+path1;path2
+D:\Projects\LeafRecognition\data\Original\test\0021e90e4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\223.png
+D:\Projects\LeafRecognition\data\Original\test\003d61042.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\337.png
+D:\Projects\LeafRecognition\data\Original\test\007b3da8b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\8.png
+D:\Projects\LeafRecognition\data\Original\test\0086a6340.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\105.png
+D:\Projects\LeafRecognition\data\Original\test\00c47e980.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\125.png
+D:\Projects\LeafRecognition\data\Original\test\00d090cde.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\188.png
+D:\Projects\LeafRecognition\data\Original\test\00ef713a8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\537.png
+D:\Projects\LeafRecognition\data\Original\test\01291174f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\416.png
+D:\Projects\LeafRecognition\data\Original\test\026716f9b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\192.png
+D:\Projects\LeafRecognition\data\Original\test\02cfeb38d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\495.png
+D:\Projects\LeafRecognition\data\Original\test\03566743d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\348.png
+D:\Projects\LeafRecognition\data\Original\test\03a2ee656.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\405.png
+D:\Projects\LeafRecognition\data\Original\test\03e322a29.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\45.png
+D:\Projects\LeafRecognition\data\Original\test\03ef36742.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\516.png
+D:\Projects\LeafRecognition\data\Original\test\043449b0b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\252.png
+D:\Projects\LeafRecognition\data\Original\test\0437393b1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\472.png
+D:\Projects\LeafRecognition\data\Original\test\04814f36d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\495.png
+D:\Projects\LeafRecognition\data\Original\test\05341a8a6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\519.png
+D:\Projects\LeafRecognition\data\Original\test\060450d79.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\160.png
+D:\Projects\LeafRecognition\data\Original\test\060f1dc84.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\260.png
+D:\Projects\LeafRecognition\data\Original\test\0625f063b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\540.png
+D:\Projects\LeafRecognition\data\Original\test\063363305.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\210.png
+D:\Projects\LeafRecognition\data\Original\test\06d12f6fa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\157.png
+D:\Projects\LeafRecognition\data\Original\test\071cb3ece.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\105.png
+D:\Projects\LeafRecognition\data\Original\test\0751c0bbc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\127.png
+D:\Projects\LeafRecognition\data\Original\test\07e62f903.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\216.png
+D:\Projects\LeafRecognition\data\Original\test\085974290.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\328.png
+D:\Projects\LeafRecognition\data\Original\test\0885e7690.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\552.png
+D:\Projects\LeafRecognition\data\Original\test\089ad62a7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\678.png
+D:\Projects\LeafRecognition\data\Original\test\08d591441.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\370.png
+D:\Projects\LeafRecognition\data\Original\test\0911d3dee.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\530.png
+D:\Projects\LeafRecognition\data\Original\test\099b961ec.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\143.png
+D:\Projects\LeafRecognition\data\Original\test\0a64e3e6c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\29.png
+D:\Projects\LeafRecognition\data\Original\test\0ad9e7dfb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\40.png
+D:\Projects\LeafRecognition\data\Original\test\0ae6668fa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\238.png
+D:\Projects\LeafRecognition\data\Original\test\0bf7bfb05.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\233.png
+D:\Projects\LeafRecognition\data\Original\test\0c27cf05f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\607.png
+D:\Projects\LeafRecognition\data\Original\test\0c4199daa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\230.png
+D:\Projects\LeafRecognition\data\Original\test\0c45ace27.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\398.png
+D:\Projects\LeafRecognition\data\Original\test\0c51bf229.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\153.png
+D:\Projects\LeafRecognition\data\Original\test\0c5f6c493.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\801.png
+D:\Projects\LeafRecognition\data\Original\test\0caeda5df.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\225.png
+D:\Projects\LeafRecognition\data\Original\test\0d117d910.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\411.png
+D:\Projects\LeafRecognition\data\Original\test\0d31e6602.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\62.png
+D:\Projects\LeafRecognition\data\Original\test\0dba99002.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\6.png
+D:\Projects\LeafRecognition\data\Original\test\0e8492cb1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\162.png
+D:\Projects\LeafRecognition\data\Original\test\0ebf8f2f4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\233.png
+D:\Projects\LeafRecognition\data\Original\test\0ee4ad224.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\562.png
+D:\Projects\LeafRecognition\data\Original\test\0f6cbe5e8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\28.png
+D:\Projects\LeafRecognition\data\Original\test\0fb233ad6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\74.png
+D:\Projects\LeafRecognition\data\Original\test\115f93ecc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\645.png
+D:\Projects\LeafRecognition\data\Original\test\116b136de.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\378.png
+D:\Projects\LeafRecognition\data\Original\test\1191ba346.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\285.png
+D:\Projects\LeafRecognition\data\Original\test\11d3f68ff.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\653.png
+D:\Projects\LeafRecognition\data\Original\test\122913909.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\219.png
+D:\Projects\LeafRecognition\data\Original\test\12625488b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\198.png
+D:\Projects\LeafRecognition\data\Original\test\126a71ce0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\169.png
+D:\Projects\LeafRecognition\data\Original\test\1312065a5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\529.png
+D:\Projects\LeafRecognition\data\Original\test\1364b297a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\160.png
+D:\Projects\LeafRecognition\data\Original\test\1376f3b63.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\774.png
+D:\Projects\LeafRecognition\data\Original\test\13b9fa92d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\126.png
+D:\Projects\LeafRecognition\data\Original\test\1459e96a0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\186.png
+D:\Projects\LeafRecognition\data\Original\test\148bbda66.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\150.png
+D:\Projects\LeafRecognition\data\Original\test\14bb43eee.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\93.png
+D:\Projects\LeafRecognition\data\Original\test\1541bdb2e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\161.png
+D:\Projects\LeafRecognition\data\Original\test\1623fb9e1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\474.png
+D:\Projects\LeafRecognition\data\Original\test\16357b436.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\126.png
+D:\Projects\LeafRecognition\data\Original\test\16467a950.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\49.png
+D:\Projects\LeafRecognition\data\Original\test\165681fd9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\154.png
+D:\Projects\LeafRecognition\data\Original\test\1694a70e4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\319.png
+D:\Projects\LeafRecognition\data\Original\test\16fd2e01a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\506.png
+D:\Projects\LeafRecognition\data\Original\test\172f9b10b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\177.png
+D:\Projects\LeafRecognition\data\Original\test\17529c555.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\123.png
+D:\Projects\LeafRecognition\data\Original\test\1758a1baf.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\186.png
+D:\Projects\LeafRecognition\data\Original\test\177d7e2a4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\167.png
+D:\Projects\LeafRecognition\data\Original\test\17a78fb44.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\94.png
+D:\Projects\LeafRecognition\data\Original\test\17d5e5ac4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\503.png
+D:\Projects\LeafRecognition\data\Original\test\1821eb11a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\117.png
+D:\Projects\LeafRecognition\data\Original\test\187668bde.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\509.png
+D:\Projects\LeafRecognition\data\Original\test\1926e82fd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\511.png
+D:\Projects\LeafRecognition\data\Original\test\19618ad6a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\343.png
+D:\Projects\LeafRecognition\data\Original\test\19b51843a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\534.png
+D:\Projects\LeafRecognition\data\Original\test\19e58cc5e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\424.png
+D:\Projects\LeafRecognition\data\Original\test\19fdf19fb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\110.png
+D:\Projects\LeafRecognition\data\Original\test\1b490196c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\148.png
+D:\Projects\LeafRecognition\data\Original\test\1b6a6494d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\140.png
+D:\Projects\LeafRecognition\data\Original\test\1be0713da.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\242.png
+D:\Projects\LeafRecognition\data\Original\test\1bf9b94a6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\301.png
+D:\Projects\LeafRecognition\data\Original\test\1c52ea820.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\359.png
+D:\Projects\LeafRecognition\data\Original\test\1c680883c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\385.png
+D:\Projects\LeafRecognition\data\Original\test\1cfd91582.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\387.png
+D:\Projects\LeafRecognition\data\Original\test\1d0cbd819.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\626.png
+D:\Projects\LeafRecognition\data\Original\test\1d321253f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\220.png
+D:\Projects\LeafRecognition\data\Original\test\1d48b7564.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\795.png
+D:\Projects\LeafRecognition\data\Original\test\1d56351b2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\569.png
+D:\Projects\LeafRecognition\data\Original\test\1dc7c45df.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\501.png
+D:\Projects\LeafRecognition\data\Original\test\1e095a7e1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\256.png
+D:\Projects\LeafRecognition\data\Original\test\1f290e016.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\125.png
+D:\Projects\LeafRecognition\data\Original\test\1f3f44563.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\225.png
+D:\Projects\LeafRecognition\data\Original\test\1f5e5554e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\108.png
+D:\Projects\LeafRecognition\data\Original\test\1fefb54b7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\346.png
+D:\Projects\LeafRecognition\data\Original\test\205df1df3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\491.png
+D:\Projects\LeafRecognition\data\Original\test\20817c846.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\311.png
+D:\Projects\LeafRecognition\data\Original\test\20e562fd5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\21.png
+D:\Projects\LeafRecognition\data\Original\test\20ea96bcc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\221.png
+D:\Projects\LeafRecognition\data\Original\test\20f983a71.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\454.png
+D:\Projects\LeafRecognition\data\Original\test\2126dc71b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\644.png
+D:\Projects\LeafRecognition\data\Original\test\219fd68d5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\558.png
+D:\Projects\LeafRecognition\data\Original\test\223e4af09.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\207.png
+D:\Projects\LeafRecognition\data\Original\test\22e79540f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\267.png
+D:\Projects\LeafRecognition\data\Original\test\22fbf13d6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\493.png
+D:\Projects\LeafRecognition\data\Original\test\239bdf640.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\388.png
+D:\Projects\LeafRecognition\data\Original\test\23bc8ec4f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\181.png
+D:\Projects\LeafRecognition\data\Original\test\23e480e64.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\43.png
+D:\Projects\LeafRecognition\data\Original\test\2406d6c99.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\54.png
+D:\Projects\LeafRecognition\data\Original\test\241e6935a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\265.png
+D:\Projects\LeafRecognition\data\Original\test\248436078.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\176.png
+D:\Projects\LeafRecognition\data\Original\test\24a058589.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\33.png
+D:\Projects\LeafRecognition\data\Original\test\24c94a6ca.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\3.png
+D:\Projects\LeafRecognition\data\Original\test\24d36c52c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\671.png
+D:\Projects\LeafRecognition\data\Original\test\24d78df74.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\532.png
+D:\Projects\LeafRecognition\data\Original\test\24dbc3b21.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\144.png
+D:\Projects\LeafRecognition\data\Original\test\258b1183c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\233.png
+D:\Projects\LeafRecognition\data\Original\test\25a4c427e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\560.png
+D:\Projects\LeafRecognition\data\Original\test\25cf6eb73.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\220.png
+D:\Projects\LeafRecognition\data\Original\test\25fa8d109.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\217.png
+D:\Projects\LeafRecognition\data\Original\test\26852751a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\142.png
+D:\Projects\LeafRecognition\data\Original\test\2693e5c65.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\34.png
+D:\Projects\LeafRecognition\data\Original\test\26e7ae885.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\490.png
+D:\Projects\LeafRecognition\data\Original\test\270b939cf.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\394.png
+D:\Projects\LeafRecognition\data\Original\test\279df95f2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\379.png
+D:\Projects\LeafRecognition\data\Original\test\288564c76.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\17.png
+D:\Projects\LeafRecognition\data\Original\test\29bab7cad.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\185.png
+D:\Projects\LeafRecognition\data\Original\test\29ce426a1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\420.png
+D:\Projects\LeafRecognition\data\Original\test\29f49cd0b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\50.png
+D:\Projects\LeafRecognition\data\Original\test\2a5064f19.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\102.png
+D:\Projects\LeafRecognition\data\Original\test\2a667e099.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\341.png
+D:\Projects\LeafRecognition\data\Original\test\2b55a2da2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\174.png
+D:\Projects\LeafRecognition\data\Original\test\2bd74d2da.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\193.png
+D:\Projects\LeafRecognition\data\Original\test\2d5058a59.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\649.png
+D:\Projects\LeafRecognition\data\Original\test\2d992d1fb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\586.png
+D:\Projects\LeafRecognition\data\Original\test\2d9c798f9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\80.png
+D:\Projects\LeafRecognition\data\Original\test\2dd5cfba9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\55.png
+D:\Projects\LeafRecognition\data\Original\test\2df78338c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\664.png
+D:\Projects\LeafRecognition\data\Original\test\2e86f1085.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\392.png
+D:\Projects\LeafRecognition\data\Original\test\2ea664465.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\377.png
+D:\Projects\LeafRecognition\data\Original\test\2f0004a7f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\51.png
+D:\Projects\LeafRecognition\data\Original\test\2f246d688.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\531.png
+D:\Projects\LeafRecognition\data\Original\test\2ff5cb348.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\134.png
+D:\Projects\LeafRecognition\data\Original\test\30ad31220.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\273.png
+D:\Projects\LeafRecognition\data\Original\test\3185294c8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\336.png
+D:\Projects\LeafRecognition\data\Original\test\31f3dd81f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\694.png
+D:\Projects\LeafRecognition\data\Original\test\31fcdc161.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\98.png
+D:\Projects\LeafRecognition\data\Original\test\3281183f9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\583.png
+D:\Projects\LeafRecognition\data\Original\test\32a8c8a1d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\24.png
+D:\Projects\LeafRecognition\data\Original\test\32b42c120.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\371.png
+D:\Projects\LeafRecognition\data\Original\test\32c86784b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\130.png
+D:\Projects\LeafRecognition\data\Original\test\33317fc2a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\352.png
+D:\Projects\LeafRecognition\data\Original\test\33448fe39.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\296.png
+D:\Projects\LeafRecognition\data\Original\test\33748968f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\287.png
+D:\Projects\LeafRecognition\data\Original\test\338c7e907.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\407.png
+D:\Projects\LeafRecognition\data\Original\test\34dd57ca9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\545.png
+D:\Projects\LeafRecognition\data\Original\test\3526b05cc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\120.png
+D:\Projects\LeafRecognition\data\Original\test\35a90f8d0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\270.png
+D:\Projects\LeafRecognition\data\Original\test\35cf9fa01.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\136.png
+D:\Projects\LeafRecognition\data\Original\test\35ebe165c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\317.png
+D:\Projects\LeafRecognition\data\Original\test\36839d5e9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\560.png
+D:\Projects\LeafRecognition\data\Original\test\36d62bf36.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\222.png
+D:\Projects\LeafRecognition\data\Original\test\36ed4f215.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\421.png
+D:\Projects\LeafRecognition\data\Original\test\37297a64c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\653.png
+D:\Projects\LeafRecognition\data\Original\test\37714071b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\129.png
+D:\Projects\LeafRecognition\data\Original\test\377283a21.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\156.png
+D:\Projects\LeafRecognition\data\Original\test\37c3108d6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\149.png
+D:\Projects\LeafRecognition\data\Original\test\37e545a60.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\657.png
+D:\Projects\LeafRecognition\data\Original\test\3827436f3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\405.png
+D:\Projects\LeafRecognition\data\Original\test\38c054379.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\219.png
+D:\Projects\LeafRecognition\data\Original\test\391dcd7fd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\37.png
+D:\Projects\LeafRecognition\data\Original\test\39858776a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\88.png
+D:\Projects\LeafRecognition\data\Original\test\39b740f7e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\201.png
+D:\Projects\LeafRecognition\data\Original\test\39c8fde99.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\725.png
+D:\Projects\LeafRecognition\data\Original\test\39d569be4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\669.png
+D:\Projects\LeafRecognition\data\Original\test\3a909ead8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\493.png
+D:\Projects\LeafRecognition\data\Original\test\3abb502fb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\119.png
+D:\Projects\LeafRecognition\data\Original\test\3b73c3b61.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\75.png
+D:\Projects\LeafRecognition\data\Original\test\3bbef3ecb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\551.png
+D:\Projects\LeafRecognition\data\Original\test\3d38a87bc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\574.png
+D:\Projects\LeafRecognition\data\Original\test\3d65168c2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\531.png
+D:\Projects\LeafRecognition\data\Original\test\3d67c434b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\116.png
+D:\Projects\LeafRecognition\data\Original\test\3da774107.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\489.png
+D:\Projects\LeafRecognition\data\Original\test\3dd52bd2a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\240.png
+D:\Projects\LeafRecognition\data\Original\test\3e9f41817.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\142.png
+D:\Projects\LeafRecognition\data\Original\test\3ebbe9ca4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\304.png
+D:\Projects\LeafRecognition\data\Original\test\3eda9cbb6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\137.png
+D:\Projects\LeafRecognition\data\Original\test\3edf5e9ef.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\19.png
+D:\Projects\LeafRecognition\data\Original\test\3eebd36c6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\145.png
+D:\Projects\LeafRecognition\data\Original\test\3efa1f66c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\262.png
+D:\Projects\LeafRecognition\data\Original\test\3f64c2c1b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\226.png
+D:\Projects\LeafRecognition\data\Original\test\3f826b318.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\654.png
+D:\Projects\LeafRecognition\data\Original\test\3f92d8039.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\587.png
+D:\Projects\LeafRecognition\data\Original\test\3fbd0fc6a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\184.png
+D:\Projects\LeafRecognition\data\Original\test\3fbf1a417.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\309.png
+D:\Projects\LeafRecognition\data\Original\test\4049a6ea6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\397.png
+D:\Projects\LeafRecognition\data\Original\test\406162ef9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\245.png
+D:\Projects\LeafRecognition\data\Original\test\406ecb5c5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\280.png
+D:\Projects\LeafRecognition\data\Original\test\410e6f702.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\364.png
+D:\Projects\LeafRecognition\data\Original\test\41e07778c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\313.png
+D:\Projects\LeafRecognition\data\Original\test\41f1c3cdb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\77.png
+D:\Projects\LeafRecognition\data\Original\test\4287d810c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\667.png
+D:\Projects\LeafRecognition\data\Original\test\429211ee6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\75.png
+D:\Projects\LeafRecognition\data\Original\test\42e7ed442.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\144.png
+D:\Projects\LeafRecognition\data\Original\test\4392d93cf.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\37.png
+D:\Projects\LeafRecognition\data\Original\test\43ede9de9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\313.png
+D:\Projects\LeafRecognition\data\Original\test\444473900.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\81.png
+D:\Projects\LeafRecognition\data\Original\test\446f7da01.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\638.png
+D:\Projects\LeafRecognition\data\Original\test\44e8b8833.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\75.png
+D:\Projects\LeafRecognition\data\Original\test\456d507c0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\161.png
+D:\Projects\LeafRecognition\data\Original\test\466bb6d3b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\221.png
+D:\Projects\LeafRecognition\data\Original\test\46c14fde2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\272.png
+D:\Projects\LeafRecognition\data\Original\test\47b7d8e17.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\204.png
+D:\Projects\LeafRecognition\data\Original\test\47f9e5d91.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\393.png
+D:\Projects\LeafRecognition\data\Original\test\48231e475.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\569.png
+D:\Projects\LeafRecognition\data\Original\test\4823c3ffa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\128.png
+D:\Projects\LeafRecognition\data\Original\test\486e59179.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\564.png
+D:\Projects\LeafRecognition\data\Original\test\48d97c645.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\88.png
+D:\Projects\LeafRecognition\data\Original\test\48ef6a2ff.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\168.png
+D:\Projects\LeafRecognition\data\Original\test\490c4f9c8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\486.png
+D:\Projects\LeafRecognition\data\Original\test\4a337a4a9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\360.png
+D:\Projects\LeafRecognition\data\Original\test\4ac29bbf0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\396.png
+D:\Projects\LeafRecognition\data\Original\test\4b032563b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\426.png
+D:\Projects\LeafRecognition\data\Original\test\4b155fb07.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\119.png
+D:\Projects\LeafRecognition\data\Original\test\4bbf1f6ea.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\150.png
+D:\Projects\LeafRecognition\data\Original\test\4bbfd1e05.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\305.png
+D:\Projects\LeafRecognition\data\Original\test\4bcdaa5e2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\265.png
+D:\Projects\LeafRecognition\data\Original\test\4c5ab9b68.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\191.png
+D:\Projects\LeafRecognition\data\Original\test\4c7838de4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\690.png
+D:\Projects\LeafRecognition\data\Original\test\4c8005bbc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\61.png
+D:\Projects\LeafRecognition\data\Original\test\4e1190d78.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\33.png
+D:\Projects\LeafRecognition\data\Original\test\4e18ab737.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\187.png
+D:\Projects\LeafRecognition\data\Original\test\4e69d100a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\375.png
+D:\Projects\LeafRecognition\data\Original\test\4e9d3765f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\140.png
+D:\Projects\LeafRecognition\data\Original\test\4ea7493d5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\30.png
+D:\Projects\LeafRecognition\data\Original\test\4f44ca525.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\392.png
+D:\Projects\LeafRecognition\data\Original\test\4f83143e1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\93.png
+D:\Projects\LeafRecognition\data\Original\test\502dff972.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\72.png
+D:\Projects\LeafRecognition\data\Original\test\506347cfe.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\281.png
+D:\Projects\LeafRecognition\data\Original\test\50de8a115.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\60.png
+D:\Projects\LeafRecognition\data\Original\test\521b27a17.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\103.png
+D:\Projects\LeafRecognition\data\Original\test\523e5505c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\497.png
+D:\Projects\LeafRecognition\data\Original\test\5296835a0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\226.png
+D:\Projects\LeafRecognition\data\Original\test\52a87abe5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\83.png
+D:\Projects\LeafRecognition\data\Original\test\52dc7a4d6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\656.png
+D:\Projects\LeafRecognition\data\Original\test\5315c2dca.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\708.png
+D:\Projects\LeafRecognition\data\Original\test\534e74d83.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\155.png
+D:\Projects\LeafRecognition\data\Original\test\539961189.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\655.png
+D:\Projects\LeafRecognition\data\Original\test\53ceb4657.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\441.png
+D:\Projects\LeafRecognition\data\Original\test\53e6e9000.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\44.png
+D:\Projects\LeafRecognition\data\Original\test\54b3afd58.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\310.png
+D:\Projects\LeafRecognition\data\Original\test\54c8bb900.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\70.png
+D:\Projects\LeafRecognition\data\Original\test\550a8b7e6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\384.png
+D:\Projects\LeafRecognition\data\Original\test\55251925f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\666.png
+D:\Projects\LeafRecognition\data\Original\test\558aa7deb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\186.png
+D:\Projects\LeafRecognition\data\Original\test\55920f07f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\229.png
+D:\Projects\LeafRecognition\data\Original\test\55a852f40.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\416.png
+D:\Projects\LeafRecognition\data\Original\test\55fed435f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\52.png
+D:\Projects\LeafRecognition\data\Original\test\56112b92c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\85.png
+D:\Projects\LeafRecognition\data\Original\test\56a01b835.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\23.png
+D:\Projects\LeafRecognition\data\Original\test\5779fe8b4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\158.png
+D:\Projects\LeafRecognition\data\Original\test\5817b766d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\215.png
+D:\Projects\LeafRecognition\data\Original\test\5883b423d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\579.png
+D:\Projects\LeafRecognition\data\Original\test\589e643b8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\221.png
+D:\Projects\LeafRecognition\data\Original\test\590f5aea6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\42.png
+D:\Projects\LeafRecognition\data\Original\test\592473c83.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\91.png
+D:\Projects\LeafRecognition\data\Original\test\592cc5b89.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\500.png
+D:\Projects\LeafRecognition\data\Original\test\59358cd44.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\79.png
+D:\Projects\LeafRecognition\data\Original\test\593896f83.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\648.png
+D:\Projects\LeafRecognition\data\Original\test\599691cd9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\69.png
+D:\Projects\LeafRecognition\data\Original\test\599c82eea.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\588.png
+D:\Projects\LeafRecognition\data\Original\test\59b2c6f2b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\172.png
+D:\Projects\LeafRecognition\data\Original\test\59c6a9f95.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\123.png
+D:\Projects\LeafRecognition\data\Original\test\59e1cea8d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\159.png
+D:\Projects\LeafRecognition\data\Original\test\59f62ad1d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\623.png
+D:\Projects\LeafRecognition\data\Original\test\5a38ac566.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\375.png
+D:\Projects\LeafRecognition\data\Original\test\5a6bf96f6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\17.png
+D:\Projects\LeafRecognition\data\Original\test\5af1d74ee.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\356.png
+D:\Projects\LeafRecognition\data\Original\test\5b3000b9a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\185.png
+D:\Projects\LeafRecognition\data\Original\test\5b3beec58.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\293.png
+D:\Projects\LeafRecognition\data\Original\test\5b63dcc21.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\541.png
+D:\Projects\LeafRecognition\data\Original\test\5bbc0a255.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\662.png
+D:\Projects\LeafRecognition\data\Original\test\5bc6595f6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\190.png
+D:\Projects\LeafRecognition\data\Original\test\5bd71f445.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\425.png
+D:\Projects\LeafRecognition\data\Original\test\5bdcfa329.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\226.png
+D:\Projects\LeafRecognition\data\Original\test\5c3cd7ea2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\578.png
+D:\Projects\LeafRecognition\data\Original\test\5ca0205f9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\195.png
+D:\Projects\LeafRecognition\data\Original\test\5ca2687a4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\236.png
+D:\Projects\LeafRecognition\data\Original\test\5dcad9a53.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\365.png
+D:\Projects\LeafRecognition\data\Original\test\5e6a237f2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\16.png
+D:\Projects\LeafRecognition\data\Original\test\5eb9c26a6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\382.png
+D:\Projects\LeafRecognition\data\Original\test\5ee9d0a5b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\129.png
+D:\Projects\LeafRecognition\data\Original\test\5f04aed97.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\218.png
+D:\Projects\LeafRecognition\data\Original\test\6049234e6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\94.png
+D:\Projects\LeafRecognition\data\Original\test\604dd663f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\45.png
+D:\Projects\LeafRecognition\data\Original\test\606647f64.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\549.png
+D:\Projects\LeafRecognition\data\Original\test\60ee66ddd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\154.png
+D:\Projects\LeafRecognition\data\Original\test\60f0bc617.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\423.png
+D:\Projects\LeafRecognition\data\Original\test\60fea2ef6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\148.png
+D:\Projects\LeafRecognition\data\Original\test\615d2b0a9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\133.png
+D:\Projects\LeafRecognition\data\Original\test\618de3d7a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\286.png
+D:\Projects\LeafRecognition\data\Original\test\61b044411.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\802.png
+D:\Projects\LeafRecognition\data\Original\test\61dd2cdc5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\42.png
+D:\Projects\LeafRecognition\data\Original\test\632156793.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\74.png
+D:\Projects\LeafRecognition\data\Original\test\63c07d340.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\257.png
+D:\Projects\LeafRecognition\data\Original\test\647689543.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\548.png
+D:\Projects\LeafRecognition\data\Original\test\64fe8beb9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\557.png
+D:\Projects\LeafRecognition\data\Original\test\653193c1a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\212.png
+D:\Projects\LeafRecognition\data\Original\test\65489944f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\147.png
+D:\Projects\LeafRecognition\data\Original\test\659412b1a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\441.png
+D:\Projects\LeafRecognition\data\Original\test\65d08b894.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\372.png
+D:\Projects\LeafRecognition\data\Original\test\65e262a6d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\266.png
+D:\Projects\LeafRecognition\data\Original\test\65e97117e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\751.png
+D:\Projects\LeafRecognition\data\Original\test\664194d19.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\404.png
+D:\Projects\LeafRecognition\data\Original\test\6680836dd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\241.png
+D:\Projects\LeafRecognition\data\Original\test\668c1007c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\186.png
+D:\Projects\LeafRecognition\data\Original\test\66ab0e8d0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\61.png
+D:\Projects\LeafRecognition\data\Original\test\675ec1b0b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\39.png
+D:\Projects\LeafRecognition\data\Original\test\67ce3eaa6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\102.png
+D:\Projects\LeafRecognition\data\Original\test\67e185673.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\71.png
+D:\Projects\LeafRecognition\data\Original\test\686dc7ec8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\334.png
+D:\Projects\LeafRecognition\data\Original\test\6908fb540.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\221.png
+D:\Projects\LeafRecognition\data\Original\test\6982a9d30.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\520.png
+D:\Projects\LeafRecognition\data\Original\test\699d3c707.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\23.png
+D:\Projects\LeafRecognition\data\Original\test\69d1669f8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\30.png
+D:\Projects\LeafRecognition\data\Original\test\6a41bf95b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\324.png
+D:\Projects\LeafRecognition\data\Original\test\6a47821f9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\172.png
+D:\Projects\LeafRecognition\data\Original\test\6b721f68e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\53.png
+D:\Projects\LeafRecognition\data\Original\test\6b9d6f8c9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\376.png
+D:\Projects\LeafRecognition\data\Original\test\6ba4ef411.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\198.png
+D:\Projects\LeafRecognition\data\Original\test\6bce55e05.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\27.png
+D:\Projects\LeafRecognition\data\Original\test\6be169e41.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\160.png
+D:\Projects\LeafRecognition\data\Original\test\6c874918c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\179.png
+D:\Projects\LeafRecognition\data\Original\test\6d6eb3830.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\159.png
+D:\Projects\LeafRecognition\data\Original\test\6da892be6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\201.png
+D:\Projects\LeafRecognition\data\Original\test\6db684fff.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\136.png
+D:\Projects\LeafRecognition\data\Original\test\6dd095129.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\381.png
+D:\Projects\LeafRecognition\data\Original\test\6df8e31ea.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\46.png
+D:\Projects\LeafRecognition\data\Original\test\6edb96d45.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\196.png
+D:\Projects\LeafRecognition\data\Original\test\6edc76e7c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\384.png
+D:\Projects\LeafRecognition\data\Original\test\711b46fba.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\71.png
+D:\Projects\LeafRecognition\data\Original\test\71334c634.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\103.png
+D:\Projects\LeafRecognition\data\Original\test\71b232519.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\140.png
+D:\Projects\LeafRecognition\data\Original\test\71e73a8a0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\164.png
+D:\Projects\LeafRecognition\data\Original\test\71f5323c5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\613.png
+D:\Projects\LeafRecognition\data\Original\test\721b2c47a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\381.png
+D:\Projects\LeafRecognition\data\Original\test\721be0a4a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\426.png
+D:\Projects\LeafRecognition\data\Original\test\728eabae1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\19.png
+D:\Projects\LeafRecognition\data\Original\test\73260a4ee.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\504.png
+D:\Projects\LeafRecognition\data\Original\test\74068643d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\100.png
+D:\Projects\LeafRecognition\data\Original\test\74d810f87.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\767.png
+D:\Projects\LeafRecognition\data\Original\test\74fd477eb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\176.png
+D:\Projects\LeafRecognition\data\Original\test\7506c0c02.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\545.png
+D:\Projects\LeafRecognition\data\Original\test\752101fdf.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\528.png
+D:\Projects\LeafRecognition\data\Original\test\754b1adf8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\26.png
+D:\Projects\LeafRecognition\data\Original\test\756dd5070.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\550.png
+D:\Projects\LeafRecognition\data\Original\test\75cb95e91.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\166.png
+D:\Projects\LeafRecognition\data\Original\test\7615e52d3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\99.png
+D:\Projects\LeafRecognition\data\Original\test\76555b064.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\461.png
+D:\Projects\LeafRecognition\data\Original\test\7691014a1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\28.png
+D:\Projects\LeafRecognition\data\Original\test\7696badea.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\89.png
+D:\Projects\LeafRecognition\data\Original\test\76dbd1054.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\156.png
+D:\Projects\LeafRecognition\data\Original\test\770a265f5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\376.png
+D:\Projects\LeafRecognition\data\Original\test\77ccb8b2a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\244.png
+D:\Projects\LeafRecognition\data\Original\test\780bd2a2c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\364.png
+D:\Projects\LeafRecognition\data\Original\test\780defa2e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\179.png
+D:\Projects\LeafRecognition\data\Original\test\785a73ab8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\546.png
+D:\Projects\LeafRecognition\data\Original\test\78750e0ff.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\408.png
+D:\Projects\LeafRecognition\data\Original\test\78b1bf91a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\267.png
+D:\Projects\LeafRecognition\data\Original\test\78c5fba1d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\344.png
+D:\Projects\LeafRecognition\data\Original\test\79d93bc96.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\592.png
+D:\Projects\LeafRecognition\data\Original\test\79dafec17.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\547.png
+D:\Projects\LeafRecognition\data\Original\test\79e5ea8fa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\169.png
+D:\Projects\LeafRecognition\data\Original\test\79fba50db.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\535.png
+D:\Projects\LeafRecognition\data\Original\test\7a38416be.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\391.png
+D:\Projects\LeafRecognition\data\Original\test\7b21ba6ba.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\228.png
+D:\Projects\LeafRecognition\data\Original\test\7b52585da.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\620.png
+D:\Projects\LeafRecognition\data\Original\test\7beb2766f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\307.png
+D:\Projects\LeafRecognition\data\Original\test\7c85b0265.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\257.png
+D:\Projects\LeafRecognition\data\Original\test\7cabd68cc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\589.png
+D:\Projects\LeafRecognition\data\Original\test\7d22abf91.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\124.png
+D:\Projects\LeafRecognition\data\Original\test\7d3045fc3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\382.png
+D:\Projects\LeafRecognition\data\Original\test\7d4cd07ad.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\174.png
+D:\Projects\LeafRecognition\data\Original\test\7e9cf1c46.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\427.png
+D:\Projects\LeafRecognition\data\Original\test\7f31c7f42.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\746.png
+D:\Projects\LeafRecognition\data\Original\test\7f46a71db.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\20.png
+D:\Projects\LeafRecognition\data\Original\test\7f9e9565d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\531.png
+D:\Projects\LeafRecognition\data\Original\test\7fdb7202d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\302.png
+D:\Projects\LeafRecognition\data\Original\test\800a8c17e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\67.png
+D:\Projects\LeafRecognition\data\Original\test\808578ed5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\29.png
+D:\Projects\LeafRecognition\data\Original\test\808cf55c6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\141.png
+D:\Projects\LeafRecognition\data\Original\test\809eb0b82.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\26.png
+D:\Projects\LeafRecognition\data\Original\test\80e299ae9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\59.png
+D:\Projects\LeafRecognition\data\Original\test\8104422bb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\418.png
+D:\Projects\LeafRecognition\data\Original\test\8170d33c1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\222.png
+D:\Projects\LeafRecognition\data\Original\test\824f5d4e5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\349.png
+D:\Projects\LeafRecognition\data\Original\test\827279bad.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\550.png
+D:\Projects\LeafRecognition\data\Original\test\82b5f4d33.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\151.png
+D:\Projects\LeafRecognition\data\Original\test\8301b0547.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\175.png
+D:\Projects\LeafRecognition\data\Original\test\8303b27ed.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\683.png
+D:\Projects\LeafRecognition\data\Original\test\8311740de.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\484.png
+D:\Projects\LeafRecognition\data\Original\test\835dc5447.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\521.png
+D:\Projects\LeafRecognition\data\Original\test\837ac0270.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\306.png
+D:\Projects\LeafRecognition\data\Original\test\8455169fe.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\68.png
+D:\Projects\LeafRecognition\data\Original\test\851c90831.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\23.png
+D:\Projects\LeafRecognition\data\Original\test\85431c075.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\69.png
+D:\Projects\LeafRecognition\data\Original\test\855955aaf.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\492.png
+D:\Projects\LeafRecognition\data\Original\test\856f2910a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\276.png
+D:\Projects\LeafRecognition\data\Original\test\8585f9718.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\142.png
+D:\Projects\LeafRecognition\data\Original\test\862b8e7a0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\261.png
+D:\Projects\LeafRecognition\data\Original\test\86676d627.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\331.png
+D:\Projects\LeafRecognition\data\Original\test\866be78b0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\598.png
+D:\Projects\LeafRecognition\data\Original\test\86c309150.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\371.png
+D:\Projects\LeafRecognition\data\Original\test\86f08e6d1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\480.png
+D:\Projects\LeafRecognition\data\Original\test\87608f7aa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\282.png
+D:\Projects\LeafRecognition\data\Original\test\87f627bf9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\665.png
+D:\Projects\LeafRecognition\data\Original\test\8874bba69.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\453.png
+D:\Projects\LeafRecognition\data\Original\test\88ac6df54.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\529.png
+D:\Projects\LeafRecognition\data\Original\test\88d8a4508.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\217.png
+D:\Projects\LeafRecognition\data\Original\test\8916793ce.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\198.png
+D:\Projects\LeafRecognition\data\Original\test\892e9d6c6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\565.png
+D:\Projects\LeafRecognition\data\Original\test\897e5a8de.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\40.png
+D:\Projects\LeafRecognition\data\Original\test\8a30b2de3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\43.png
+D:\Projects\LeafRecognition\data\Original\test\8a32d0bfa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\387.png
+D:\Projects\LeafRecognition\data\Original\test\8a4d3a1b1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\506.png
+D:\Projects\LeafRecognition\data\Original\test\8a8d6c712.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\299.png
+D:\Projects\LeafRecognition\data\Original\test\8ab8a958b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\529.png
+D:\Projects\LeafRecognition\data\Original\test\8b043093d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\63.png
+D:\Projects\LeafRecognition\data\Original\test\8b27bfd2b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\526.png
+D:\Projects\LeafRecognition\data\Original\test\8b9144917.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\224.png
+D:\Projects\LeafRecognition\data\Original\test\8bc0261c9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\472.png
+D:\Projects\LeafRecognition\data\Original\test\8c98a6e9b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\490.png
+D:\Projects\LeafRecognition\data\Original\test\8c9953903.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\355.png
+D:\Projects\LeafRecognition\data\Original\test\8ca6140ca.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\599.png
+D:\Projects\LeafRecognition\data\Original\test\8cf2e3e6c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\518.png
+D:\Projects\LeafRecognition\data\Original\test\8cf909eb3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\57.png
+D:\Projects\LeafRecognition\data\Original\test\8cfd98117.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\499.png
+D:\Projects\LeafRecognition\data\Original\test\8d6991365.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\146.png
+D:\Projects\LeafRecognition\data\Original\test\8d6acbe9b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\651.png
+D:\Projects\LeafRecognition\data\Original\test\8db450ce3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\406.png
+D:\Projects\LeafRecognition\data\Original\test\8dbb8e1b9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\41.png
+D:\Projects\LeafRecognition\data\Original\test\8e29abce1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\553.png
+D:\Projects\LeafRecognition\data\Original\test\8e2e5604e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\387.png
+D:\Projects\LeafRecognition\data\Original\test\8e3ed0a25.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\336.png
+D:\Projects\LeafRecognition\data\Original\test\8e4eaeec0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\543.png
+D:\Projects\LeafRecognition\data\Original\test\8e6ec1ca6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\374.png
+D:\Projects\LeafRecognition\data\Original\test\8ece6efec.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\161.png
+D:\Projects\LeafRecognition\data\Original\test\8f523520c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\168.png
+D:\Projects\LeafRecognition\data\Original\test\8faadb6a8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\2.png
+D:\Projects\LeafRecognition\data\Original\test\90b595f12.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\412.png
+D:\Projects\LeafRecognition\data\Original\test\90d119d25.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\138.png
+D:\Projects\LeafRecognition\data\Original\test\91e469b4a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\48.png
+D:\Projects\LeafRecognition\data\Original\test\92292055d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\413.png
+D:\Projects\LeafRecognition\data\Original\test\93079d970.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\385.png
+D:\Projects\LeafRecognition\data\Original\test\9326bda1b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\429.png
+D:\Projects\LeafRecognition\data\Original\test\93d76fd5d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\260.png
+D:\Projects\LeafRecognition\data\Original\test\948cdb277.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\166.png
+D:\Projects\LeafRecognition\data\Original\test\9516e56c4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\199.png
+D:\Projects\LeafRecognition\data\Original\test\953496deb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\105.png
+D:\Projects\LeafRecognition\data\Original\test\958bb9e96.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\176.png
+D:\Projects\LeafRecognition\data\Original\test\963544aa0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\261.png
+D:\Projects\LeafRecognition\data\Original\test\9643fc5f4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\155.png
+D:\Projects\LeafRecognition\data\Original\test\966ae5ad9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\392.png
+D:\Projects\LeafRecognition\data\Original\test\969a851be.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\119.png
+D:\Projects\LeafRecognition\data\Original\test\96ecad7a1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\215.png
+D:\Projects\LeafRecognition\data\Original\test\96f14d90c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\249.png
+D:\Projects\LeafRecognition\data\Original\test\974959ec1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\207.png
+D:\Projects\LeafRecognition\data\Original\test\976e4e079.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\408.png
+D:\Projects\LeafRecognition\data\Original\test\97844bfd5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\266.png
+D:\Projects\LeafRecognition\data\Original\test\97b2f0a10.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\225.png
+D:\Projects\LeafRecognition\data\Original\test\98062cd87.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\679.png
+D:\Projects\LeafRecognition\data\Original\test\98d819587.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\219.png
+D:\Projects\LeafRecognition\data\Original\test\98da6ef4e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\584.png
+D:\Projects\LeafRecognition\data\Original\test\99036c51d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\78.png
+D:\Projects\LeafRecognition\data\Original\test\99569b224.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\30.png
+D:\Projects\LeafRecognition\data\Original\test\995c7ab1e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\154.png
+D:\Projects\LeafRecognition\data\Original\test\9a3f20121.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\92.png
+D:\Projects\LeafRecognition\data\Original\test\9aa5587fe.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\327.png
+D:\Projects\LeafRecognition\data\Original\test\9b4800b42.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\181.png
+D:\Projects\LeafRecognition\data\Original\test\9b9911f20.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\510.png
+D:\Projects\LeafRecognition\data\Original\test\9baf94467.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\139.png
+D:\Projects\LeafRecognition\data\Original\test\9c0c5b731.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\542.png
+D:\Projects\LeafRecognition\data\Original\test\9c32a797e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\252.png
+D:\Projects\LeafRecognition\data\Original\test\9c777333d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\582.png
+D:\Projects\LeafRecognition\data\Original\test\9c8b08a24.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\458.png
+D:\Projects\LeafRecognition\data\Original\test\9cce7328c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\102.png
+D:\Projects\LeafRecognition\data\Original\test\9d3cb4745.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\29.png
+D:\Projects\LeafRecognition\data\Original\test\9d79a1f0c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\378.png
+D:\Projects\LeafRecognition\data\Original\test\9df3275da.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\51.png
+D:\Projects\LeafRecognition\data\Original\test\9fab816f2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\183.png
+D:\Projects\LeafRecognition\data\Original\test\a006a475c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\565.png
+D:\Projects\LeafRecognition\data\Original\test\a060c1cf8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\227.png
+D:\Projects\LeafRecognition\data\Original\test\a0b393945.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\57.png
+D:\Projects\LeafRecognition\data\Original\test\a0f37c726.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\499.png
+D:\Projects\LeafRecognition\data\Original\test\a169b71e7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\148.png
+D:\Projects\LeafRecognition\data\Original\test\a19c3faca.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\300.png
+D:\Projects\LeafRecognition\data\Original\test\a1da8be3c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\234.png
+D:\Projects\LeafRecognition\data\Original\test\a1e0a6c02.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\163.png
+D:\Projects\LeafRecognition\data\Original\test\a254d71f6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\97.png
+D:\Projects\LeafRecognition\data\Original\test\a276c65f7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\568.png
+D:\Projects\LeafRecognition\data\Original\test\a2b703e21.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\86.png
+D:\Projects\LeafRecognition\data\Original\test\a2c89c367.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\154.png
+D:\Projects\LeafRecognition\data\Original\test\a2d25b4f3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\233.png
+D:\Projects\LeafRecognition\data\Original\test\a35fd6fbb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\183.png
+D:\Projects\LeafRecognition\data\Original\test\a38b8a581.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\498.png
+D:\Projects\LeafRecognition\data\Original\test\a3b375b34.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\702.png
+D:\Projects\LeafRecognition\data\Original\test\a3d0031fd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\279.png
+D:\Projects\LeafRecognition\data\Original\test\a4b61a4ea.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\800.png
+D:\Projects\LeafRecognition\data\Original\test\a544fc46d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\568.png
+D:\Projects\LeafRecognition\data\Original\test\a55d26a4c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\538.png
+D:\Projects\LeafRecognition\data\Original\test\a5db42f7d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\100.png
+D:\Projects\LeafRecognition\data\Original\test\a74bf916d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\72.png
+D:\Projects\LeafRecognition\data\Original\test\a74d475c2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\178.png
+D:\Projects\LeafRecognition\data\Original\test\a7bd7cadb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\313.png
+D:\Projects\LeafRecognition\data\Original\test\a800caead.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\381.png
+D:\Projects\LeafRecognition\data\Original\test\a83820a2c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\147.png
+D:\Projects\LeafRecognition\data\Original\test\a8388a37f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\191.png
+D:\Projects\LeafRecognition\data\Original\test\a85b48a95.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\134.png
+D:\Projects\LeafRecognition\data\Original\test\a85fc8c9a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\34.png
+D:\Projects\LeafRecognition\data\Original\test\a890ac088.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\68.png
+D:\Projects\LeafRecognition\data\Original\test\a8b431a3e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\359.png
+D:\Projects\LeafRecognition\data\Original\test\a8c8a1db0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\66.png
+D:\Projects\LeafRecognition\data\Original\test\a8da9c08d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\200.png
+D:\Projects\LeafRecognition\data\Original\test\a8de7c1b7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\133.png
+D:\Projects\LeafRecognition\data\Original\test\a935ca110.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\229.png
+D:\Projects\LeafRecognition\data\Original\test\a93f940d6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\315.png
+D:\Projects\LeafRecognition\data\Original\test\a9d2eab61.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\131.png
+D:\Projects\LeafRecognition\data\Original\test\aa7d098d1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\175.png
+D:\Projects\LeafRecognition\data\Original\test\aad8375e0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\261.png
+D:\Projects\LeafRecognition\data\Original\test\aaf4da98f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\264.png
+D:\Projects\LeafRecognition\data\Original\test\ab0f67743.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\257.png
+D:\Projects\LeafRecognition\data\Original\test\ab35453cb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\194.png
+D:\Projects\LeafRecognition\data\Original\test\abc331628.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\45.png
+D:\Projects\LeafRecognition\data\Original\test\abf8b0772.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\353.png
+D:\Projects\LeafRecognition\data\Original\test\ac3193f78.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\401.png
+D:\Projects\LeafRecognition\data\Original\test\ac75d3326.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\118.png
+D:\Projects\LeafRecognition\data\Original\test\acdb75e00.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\297.png
+D:\Projects\LeafRecognition\data\Original\test\ace8761dd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\545.png
+D:\Projects\LeafRecognition\data\Original\test\ad12382d4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\80.png
+D:\Projects\LeafRecognition\data\Original\test\adb7a032c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\69.png
+D:\Projects\LeafRecognition\data\Original\test\ae90f2827.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\557.png
+D:\Projects\LeafRecognition\data\Original\test\aecfaed64.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\57.png
+D:\Projects\LeafRecognition\data\Original\test\aee6fa3df.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\446.png
+D:\Projects\LeafRecognition\data\Original\test\af45e222a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\546.png
+D:\Projects\LeafRecognition\data\Original\test\afa446484.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\413.png
+D:\Projects\LeafRecognition\data\Original\test\afcf6abd5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\382.png
+D:\Projects\LeafRecognition\data\Original\test\b026bf8ca.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\508.png
+D:\Projects\LeafRecognition\data\Original\test\b03397525.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\459.png
+D:\Projects\LeafRecognition\data\Original\test\b0acaff4a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\25.png
+D:\Projects\LeafRecognition\data\Original\test\b130a0632.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\25.png
+D:\Projects\LeafRecognition\data\Original\test\b145ba9d4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\314.png
+D:\Projects\LeafRecognition\data\Original\test\b1cd2a91e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\208.png
+D:\Projects\LeafRecognition\data\Original\test\b215531dd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\100.png
+D:\Projects\LeafRecognition\data\Original\test\b2706e2b3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\11.png
+D:\Projects\LeafRecognition\data\Original\test\b29339405.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\216.png
+D:\Projects\LeafRecognition\data\Original\test\b30ab4659.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\224.png
+D:\Projects\LeafRecognition\data\Original\test\b31292706.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\670.png
+D:\Projects\LeafRecognition\data\Original\test\b341d0aab.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\417.png
+D:\Projects\LeafRecognition\data\Original\test\b39c71707.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\30.png
+D:\Projects\LeafRecognition\data\Original\test\b3d6fdb80.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\132.png
+D:\Projects\LeafRecognition\data\Original\test\b3e08b037.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\208.png
+D:\Projects\LeafRecognition\data\Original\test\b47691c08.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\133.png
+D:\Projects\LeafRecognition\data\Original\test\b4c3df835.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\152.png
+D:\Projects\LeafRecognition\data\Original\test\b4f7c9214.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\252.png
+D:\Projects\LeafRecognition\data\Original\test\b573b7a56.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\550.png
+D:\Projects\LeafRecognition\data\Original\test\b5c7fd009.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\283.png
+D:\Projects\LeafRecognition\data\Original\test\b62dca166.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\197.png
+D:\Projects\LeafRecognition\data\Original\test\b687160f5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\209.png
+D:\Projects\LeafRecognition\data\Original\test\b6a3f7876.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\272.png
+D:\Projects\LeafRecognition\data\Original\test\b6f3d8b5d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\592.png
+D:\Projects\LeafRecognition\data\Original\test\b7192c70f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\218.png
+D:\Projects\LeafRecognition\data\Original\test\b7a7f6390.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\470.png
+D:\Projects\LeafRecognition\data\Original\test\b7ad92859.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\152.png
+D:\Projects\LeafRecognition\data\Original\test\b828443ff.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\168.png
+D:\Projects\LeafRecognition\data\Original\test\b9062c1c8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\163.png
+D:\Projects\LeafRecognition\data\Original\test\b944a49ca.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\395.png
+D:\Projects\LeafRecognition\data\Original\test\b98327bf4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\497.png
+D:\Projects\LeafRecognition\data\Original\test\ba3ce6b3e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\513.png
+D:\Projects\LeafRecognition\data\Original\test\bb1c84bbc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\792.png
+D:\Projects\LeafRecognition\data\Original\test\bb1d1bfd3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\91.png
+D:\Projects\LeafRecognition\data\Original\test\bb20fce02.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\505.png
+D:\Projects\LeafRecognition\data\Original\test\bb64660b7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\18.png
+D:\Projects\LeafRecognition\data\Original\test\bb7621cb3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\52.png
+D:\Projects\LeafRecognition\data\Original\test\bd72d4d8a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\318.png
+D:\Projects\LeafRecognition\data\Original\test\bd789d151.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\202.png
+D:\Projects\LeafRecognition\data\Original\test\bdde957ec.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\500.png
+D:\Projects\LeafRecognition\data\Original\test\be2499cf4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\51.png
+D:\Projects\LeafRecognition\data\Original\test\be341dbdc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\668.png
+D:\Projects\LeafRecognition\data\Original\test\bea23d9f8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\121.png
+D:\Projects\LeafRecognition\data\Original\test\bebcaab66.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\332.png
+D:\Projects\LeafRecognition\data\Original\test\beebe5f4e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\589.png
+D:\Projects\LeafRecognition\data\Original\test\bf3924a57.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\171.png
+D:\Projects\LeafRecognition\data\Original\test\bf66b9cd2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\167.png
+D:\Projects\LeafRecognition\data\Original\test\bfab3e3d0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\242.png
+D:\Projects\LeafRecognition\data\Original\test\bffc08672.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\547.png
+D:\Projects\LeafRecognition\data\Original\test\c0461776c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\558.png
+D:\Projects\LeafRecognition\data\Original\test\c069fc3fa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\195.png
+D:\Projects\LeafRecognition\data\Original\test\c06e7c748.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\142.png
+D:\Projects\LeafRecognition\data\Original\test\c0bc3997b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\317.png
+D:\Projects\LeafRecognition\data\Original\test\c0d9e170b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\351.png
+D:\Projects\LeafRecognition\data\Original\test\c0f5d9ac8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\380.png
+D:\Projects\LeafRecognition\data\Original\test\c10ccbd82.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\549.png
+D:\Projects\LeafRecognition\data\Original\test\c10db7ae2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\99.png
+D:\Projects\LeafRecognition\data\Original\test\c1ecff98b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\509.png
+D:\Projects\LeafRecognition\data\Original\test\c26ccf73c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\161.png
+D:\Projects\LeafRecognition\data\Original\test\c2de6020a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\81.png
+D:\Projects\LeafRecognition\data\Original\test\c35efa095.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\127.png
+D:\Projects\LeafRecognition\data\Original\test\c4ed8ed38.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\171.png
+D:\Projects\LeafRecognition\data\Original\test\c50335991.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\97.png
+D:\Projects\LeafRecognition\data\Original\test\c5078bac5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\745.png
+D:\Projects\LeafRecognition\data\Original\test\c5e419015.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\80.png
+D:\Projects\LeafRecognition\data\Original\test\c5e88cd42.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\544.png
+D:\Projects\LeafRecognition\data\Original\test\c60e91e07.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\106.png
+D:\Projects\LeafRecognition\data\Original\test\c63da993b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\367.png
+D:\Projects\LeafRecognition\data\Original\test\c64370a72.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\19.png
+D:\Projects\LeafRecognition\data\Original\test\c6b76307d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\296.png
+D:\Projects\LeafRecognition\data\Original\test\c6c8d4ba0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\108.png
+D:\Projects\LeafRecognition\data\Original\test\c7051c902.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\407.png
+D:\Projects\LeafRecognition\data\Original\test\c74c5b7fc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\173.png
+D:\Projects\LeafRecognition\data\Original\test\c75a82234.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\333.png
+D:\Projects\LeafRecognition\data\Original\test\c7ae30f3a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\115.png
+D:\Projects\LeafRecognition\data\Original\test\c7b07431e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\167.png
+D:\Projects\LeafRecognition\data\Original\test\c7eb96871.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\20.png
+D:\Projects\LeafRecognition\data\Original\test\c832e4302.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\48.png
+D:\Projects\LeafRecognition\data\Original\test\c85ef220d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\553.png
+D:\Projects\LeafRecognition\data\Original\test\c88ebfb47.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\249.png
+D:\Projects\LeafRecognition\data\Original\test\c8f50f0c3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\158.png
+D:\Projects\LeafRecognition\data\Original\test\caa2fbd79.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\170.png
+D:\Projects\LeafRecognition\data\Original\test\cadab6616.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\69.png
+D:\Projects\LeafRecognition\data\Original\test\cae684f8f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\395.png
+D:\Projects\LeafRecognition\data\Original\test\cb496f36e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\329.png
+D:\Projects\LeafRecognition\data\Original\test\cb76a7766.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\477.png
+D:\Projects\LeafRecognition\data\Original\test\cbba27d89.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\33.png
+D:\Projects\LeafRecognition\data\Original\test\cbe761896.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\290.png
+D:\Projects\LeafRecognition\data\Original\test\cc3d2a59a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\14.png
+D:\Projects\LeafRecognition\data\Original\test\cc74feadc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\367.png
+D:\Projects\LeafRecognition\data\Original\test\cd5f0db1c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\252.png
+D:\Projects\LeafRecognition\data\Original\test\cd6adba97.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\500.png
+D:\Projects\LeafRecognition\data\Original\test\ce15eee52.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\394.png
+D:\Projects\LeafRecognition\data\Original\test\ce3d280eb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\652.png
+D:\Projects\LeafRecognition\data\Original\test\ce42adffb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\301.png
+D:\Projects\LeafRecognition\data\Original\test\cec5bf198.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\54.png
+D:\Projects\LeafRecognition\data\Original\test\cf3a8b2fd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\263.png
+D:\Projects\LeafRecognition\data\Original\test\cf46d09c5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\525.png
+D:\Projects\LeafRecognition\data\Original\test\cf90fc52d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\228.png
+D:\Projects\LeafRecognition\data\Original\test\cfb18d262.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\590.png
+D:\Projects\LeafRecognition\data\Original\test\cfd8165e9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\404.png
+D:\Projects\LeafRecognition\data\Original\test\d0152bd7c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\478.png
+D:\Projects\LeafRecognition\data\Original\test\d01873fdd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\486.png
+D:\Projects\LeafRecognition\data\Original\test\d09275360.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\254.png
+D:\Projects\LeafRecognition\data\Original\test\d09d24c58.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\444.png
+D:\Projects\LeafRecognition\data\Original\test\d0cdc768f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\84.png
+D:\Projects\LeafRecognition\data\Original\test\d102e1a15.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\339.png
+D:\Projects\LeafRecognition\data\Original\test\d14aa43f3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\515.png
+D:\Projects\LeafRecognition\data\Original\test\d17f48d3b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\503.png
+D:\Projects\LeafRecognition\data\Original\test\d2f0f326e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\392.png
+D:\Projects\LeafRecognition\data\Original\test\d2f422ccb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\668.png
+D:\Projects\LeafRecognition\data\Original\test\d2fd9df40.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\181.png
+D:\Projects\LeafRecognition\data\Original\test\d3331e071.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\372.png
+D:\Projects\LeafRecognition\data\Original\test\d350a25fa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\422.png
+D:\Projects\LeafRecognition\data\Original\test\d41d87796.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\330.png
+D:\Projects\LeafRecognition\data\Original\test\d488a4fe1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\35.png
+D:\Projects\LeafRecognition\data\Original\test\d515398fd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\315.png
+D:\Projects\LeafRecognition\data\Original\test\d563be369.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\64.png
+D:\Projects\LeafRecognition\data\Original\test\d5f7dd60a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\338.png
+D:\Projects\LeafRecognition\data\Original\test\d668409ff.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\246.png
+D:\Projects\LeafRecognition\data\Original\test\d689256be.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\248.png
+D:\Projects\LeafRecognition\data\Original\test\d6c8c3c48.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\221.png
+D:\Projects\LeafRecognition\data\Original\test\d6d31dcbe.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\511.png
+D:\Projects\LeafRecognition\data\Original\test\d6d80a321.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\320.png
+D:\Projects\LeafRecognition\data\Original\test\d7017f701.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\440.png
+D:\Projects\LeafRecognition\data\Original\test\d84d37a61.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\415.png
+D:\Projects\LeafRecognition\data\Original\test\d89db156f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\255.png
+D:\Projects\LeafRecognition\data\Original\test\d8f4923f8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\529.png
+D:\Projects\LeafRecognition\data\Original\test\d93c7ab6d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\716.png
+D:\Projects\LeafRecognition\data\Original\test\d9c50616e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\245.png
+D:\Projects\LeafRecognition\data\Original\test\da231c97f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\506.png
+D:\Projects\LeafRecognition\data\Original\test\da4ed3a28.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\143.png
+D:\Projects\LeafRecognition\data\Original\test\da5255450.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\156.png
+D:\Projects\LeafRecognition\data\Original\test\da713c465.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\47.png
+D:\Projects\LeafRecognition\data\Original\test\da9ef7858.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\190.png
+D:\Projects\LeafRecognition\data\Original\test\dabe3e5be.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\401.png
+D:\Projects\LeafRecognition\data\Original\test\dabea05f4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\54.png
+D:\Projects\LeafRecognition\data\Original\test\dc4cd56a3.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\718.png
+D:\Projects\LeafRecognition\data\Original\test\dc55449b2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\4.png
+D:\Projects\LeafRecognition\data\Original\test\dcd7ff249.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\508.png
+D:\Projects\LeafRecognition\data\Original\test\dce2f6612.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\180.png
+D:\Projects\LeafRecognition\data\Original\test\dd5ec63d9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\137.png
+D:\Projects\LeafRecognition\data\Original\test\dd9f36df7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\84.png
+D:\Projects\LeafRecognition\data\Original\test\de0b79659.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\394.png
+D:\Projects\LeafRecognition\data\Original\test\df11d56a7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\374.png
+D:\Projects\LeafRecognition\data\Original\test\df521c0c0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\724.png
+D:\Projects\LeafRecognition\data\Original\test\df7cb5f87.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\430.png
+D:\Projects\LeafRecognition\data\Original\test\dfb1d9012.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\380.png
+D:\Projects\LeafRecognition\data\Original\test\e0ec5b6a1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\110.png
+D:\Projects\LeafRecognition\data\Original\test\e14afa235.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\156.png
+D:\Projects\LeafRecognition\data\Original\test\e15472085.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\661.png
+D:\Projects\LeafRecognition\data\Original\test\e15fce4f2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\118.png
+D:\Projects\LeafRecognition\data\Original\test\e1809cef2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\322.png
+D:\Projects\LeafRecognition\data\Original\test\e19673dc9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\49.png
+D:\Projects\LeafRecognition\data\Original\test\e19ad6ac9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\58.png
+D:\Projects\LeafRecognition\data\Original\test\e1a0e3202.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\130.png
+D:\Projects\LeafRecognition\data\Original\test\e1abb4ff9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\13.png
+D:\Projects\LeafRecognition\data\Original\test\e3f50adfc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\169.png
+D:\Projects\LeafRecognition\data\Original\test\e471f1d3a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\146.png
+D:\Projects\LeafRecognition\data\Original\test\e478c452c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\280.png
+D:\Projects\LeafRecognition\data\Original\test\e4a76885b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\165.png
+D:\Projects\LeafRecognition\data\Original\test\e4d5ec761.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\265.png
+D:\Projects\LeafRecognition\data\Original\test\e5064f6be.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\251.png
+D:\Projects\LeafRecognition\data\Original\test\e52493d0b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\87.png
+D:\Projects\LeafRecognition\data\Original\test\e5297b675.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\146.png
+D:\Projects\LeafRecognition\data\Original\test\e5368474f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\577.png
+D:\Projects\LeafRecognition\data\Original\test\e5881dd33.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\475.png
+D:\Projects\LeafRecognition\data\Original\test\e5e3dccff.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\96.png
+D:\Projects\LeafRecognition\data\Original\test\e6f1211a2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\384.png
+D:\Projects\LeafRecognition\data\Original\test\e7077322d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\512.png
+D:\Projects\LeafRecognition\data\Original\test\e721c6ac8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\133.png
+D:\Projects\LeafRecognition\data\Original\test\e73e308be.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\101.png
+D:\Projects\LeafRecognition\data\Original\test\e783f5a4f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\258.png
+D:\Projects\LeafRecognition\data\Original\test\e80a259c5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\391.png
+D:\Projects\LeafRecognition\data\Original\test\e82017baa.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\514.png
+D:\Projects\LeafRecognition\data\Original\test\e84464f5a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\271.png
+D:\Projects\LeafRecognition\data\Original\test\e88bf0db9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\525.png
+D:\Projects\LeafRecognition\data\Original\test\e901b0f28.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\482.png
+D:\Projects\LeafRecognition\data\Original\test\e921021a8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\342.png
+D:\Projects\LeafRecognition\data\Original\test\e96e57a90.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\220.png
+D:\Projects\LeafRecognition\data\Original\test\e98e5d1d5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\162.png
+D:\Projects\LeafRecognition\data\Original\test\e9cd91682.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\515.png
+D:\Projects\LeafRecognition\data\Original\test\e9d48d664.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\58.png
+D:\Projects\LeafRecognition\data\Original\test\eaf0815e2.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\61.png
+D:\Projects\LeafRecognition\data\Original\test\ec08a5d56.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\202.png
+D:\Projects\LeafRecognition\data\Original\test\ede6b84b4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\83.png
+D:\Projects\LeafRecognition\data\Original\test\edfdb4aeb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\148.png
+D:\Projects\LeafRecognition\data\Original\test\eec1079a1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\301.png
+D:\Projects\LeafRecognition\data\Original\test\eef131644.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\93.png
+D:\Projects\LeafRecognition\data\Original\test\ef02b4ee7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\259.png
+D:\Projects\LeafRecognition\data\Original\test\ef3e232ad.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\158.png
+D:\Projects\LeafRecognition\data\Original\test\ef65533d5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\218.png
+D:\Projects\LeafRecognition\data\Original\test\ef74dbcad.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\312.png
+D:\Projects\LeafRecognition\data\Original\test\ef7a5651d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\580.png
+D:\Projects\LeafRecognition\data\Original\test\ef9676433.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\34.png
+D:\Projects\LeafRecognition\data\Original\test\efe19dc32.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\164.png
+D:\Projects\LeafRecognition\data\Original\test\f0ffa00bd.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\230.png
+D:\Projects\LeafRecognition\data\Original\test\f1e87cba7.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\254.png
+D:\Projects\LeafRecognition\data\Original\test\f1f7c833f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\264.png
+D:\Projects\LeafRecognition\data\Original\test\f23faf9c1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\712.png
+D:\Projects\LeafRecognition\data\Original\test\f25996db8.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\212.png
+D:\Projects\LeafRecognition\data\Original\test\f2dc546ca.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\26.png
+D:\Projects\LeafRecognition\data\Original\test\f33e9d918.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\561.png
+D:\Projects\LeafRecognition\data\Original\test\f351ce097.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\424.png
+D:\Projects\LeafRecognition\data\Original\test\f3fcfff1b.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\329.png
+D:\Projects\LeafRecognition\data\Original\test\f4021df6c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\206.png
+D:\Projects\LeafRecognition\data\Original\test\f4234cf4f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\182.png
+D:\Projects\LeafRecognition\data\Original\test\f445fe6fb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\185.png
+D:\Projects\LeafRecognition\data\Original\test\f48916a8c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\329.png
+D:\Projects\LeafRecognition\data\Original\test\f4ad9d950.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\143.png
+D:\Projects\LeafRecognition\data\Original\test\f4caf74f9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\306.png
+D:\Projects\LeafRecognition\data\Original\test\f4e7733d4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Small-flowered Cranesbill\325.png
+D:\Projects\LeafRecognition\data\Original\test\f593c9cf0.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\256.png
+D:\Projects\LeafRecognition\data\Original\test\f66ae4070.png;D:\Projects\LeafRecognition\data\Nonsegmented\Maize\117.png
+D:\Projects\LeafRecognition\data\Original\test\f6d250856.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\51.png
+D:\Projects\LeafRecognition\data\Original\test\f8318faf1.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\518.png
+D:\Projects\LeafRecognition\data\Original\test\f85ed9b6d.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\267.png
+D:\Projects\LeafRecognition\data\Original\test\f9b6bfb00.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\7.png
+D:\Projects\LeafRecognition\data\Original\test\f9ea23fb5.png;D:\Projects\LeafRecognition\data\Nonsegmented\Fat Hen\41.png
+D:\Projects\LeafRecognition\data\Original\test\f9f35cbd4.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\395.png
+D:\Projects\LeafRecognition\data\Original\test\fa5fd1384.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\225.png
+D:\Projects\LeafRecognition\data\Original\test\fa9f3a8f9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\291.png
+D:\Projects\LeafRecognition\data\Original\test\fadc6adbc.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\276.png
+D:\Projects\LeafRecognition\data\Original\test\fb022edf9.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\122.png
+D:\Projects\LeafRecognition\data\Original\test\fba8fc78a.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\121.png
+D:\Projects\LeafRecognition\data\Original\test\fbf88b6be.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\300.png
+D:\Projects\LeafRecognition\data\Original\test\fc3e58836.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\305.png
+D:\Projects\LeafRecognition\data\Original\test\fc6f686fb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\141.png
+D:\Projects\LeafRecognition\data\Original\test\fd253a74e.png;D:\Projects\LeafRecognition\data\Nonsegmented\Cleavers\181.png
+D:\Projects\LeafRecognition\data\Original\test\fd87b36ae.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\553.png
+D:\Projects\LeafRecognition\data\Original\test\fd925f542.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common Chickweed\542.png
+D:\Projects\LeafRecognition\data\Original\test\fda0b5c38.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\182.png
+D:\Projects\LeafRecognition\data\Original\test\fda39e16f.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\794.png
+D:\Projects\LeafRecognition\data\Original\test\fdea6b119.png;D:\Projects\LeafRecognition\data\Nonsegmented\Black-grass\110.png
+D:\Projects\LeafRecognition\data\Original\test\fe29629fb.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\129.png
+D:\Projects\LeafRecognition\data\Original\test\fe9e87b78.png;D:\Projects\LeafRecognition\data\Nonsegmented\Scentless Mayweed\507.png
+D:\Projects\LeafRecognition\data\Original\test\fea1d13d6.png;D:\Projects\LeafRecognition\data\Nonsegmented\Shepherds Purse\52.png
+D:\Projects\LeafRecognition\data\Original\test\fea355851.png;D:\Projects\LeafRecognition\data\Nonsegmented\Loose Silky-bent\42.png
+D:\Projects\LeafRecognition\data\Original\test\fea3da57c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\263.png
+D:\Projects\LeafRecognition\data\Original\test\fef2ade8c.png;D:\Projects\LeafRecognition\data\Nonsegmented\Sugar beet\12.png
+D:\Projects\LeafRecognition\data\Original\test\ff65bc002.png;D:\Projects\LeafRecognition\data\Nonsegmented\Charlock\291.png
+D:\Projects\LeafRecognition\data\Original\test\ffc6f8527.png;D:\Projects\LeafRecognition\data\Nonsegmented\Common wheat\124.png
