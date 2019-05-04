@@ -50,3 +50,22 @@ def rewrite_train_data(path_gabarito, path_segments, path_destiny):
             io.imsave(os.path.join(path_destiny, img_new_name), img)
         except FileNotFoundError:
             print(os.path.join(path_segments.strip(), img_name.strip()))
+
+
+def rewrite_test_data(path_gabarito, path_segments, path_destiny):
+    gab_file = open(path_gabarito, "r")
+    gab_file.readline()
+    lines = gab_file.readlines()
+    for line in lines:
+        line.strip("\n")
+        line_split = line.split(";")
+        path_name = line_split[1].split("\\")
+        path_new_name = line_split[0].split("\\")
+        img_name = path_name[len(path_name) - 1]
+        img_name_directory = path_name[len(path_name) - 2]
+        img_new_name = path_new_name[len(path_new_name) - 1]
+        try:
+            img = io.imread(os.path.join(os.path.join(path_segments.strip(), img_name_directory), img_name.strip()))
+            io.imsave(os.path.join(path_destiny, img_new_name), img)
+        except FileNotFoundError:
+            print(os.path.join(path_segments.strip(), img_name.strip()))
