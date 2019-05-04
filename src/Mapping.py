@@ -4,7 +4,7 @@ import numpy as np
 from skimage import io
 
 
-def main(path_base, path_comparative):
+def map(path_base, path_comparative):
     files_base = []
     for r, d, f in os.walk(path_base):
         for file in f:
@@ -32,3 +32,21 @@ def main(path_base, path_comparative):
                     # print(f_base + "," + f_comp)
                     break
     output_file.close()
+
+
+def rewrite_train_data(path_gabarito, path_segments, path_destiny):
+    gab_file = open(path_gabarito, "r")
+    gab_file.readline()
+    lines = gab_file.readlines()
+    for line in lines:
+        line.strip("\n")
+        line_split = line.split(";")
+        path_name = line_split[1].split("\\")
+        path_new_name = line_split[0].split("\\")
+        img_name = path_name[len(path_name) - 1]
+        img_new_name = path_new_name[len(path_new_name) - 1]
+        try:
+            img = io.imread(os.path.join(path_segments.strip(), img_name.strip()))
+            io.imsave(os.path.join(path_destiny, img_new_name), img)
+        except FileNotFoundError:
+            print(os.path.join(path_segments.strip(), img_name.strip()))
