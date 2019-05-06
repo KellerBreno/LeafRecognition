@@ -4,7 +4,7 @@ from numpy import uint8
 from skimage import io
 from skimage.color import rgb2gray
 from skimage.filters import threshold_otsu
-from skimage.measure import label, regionprops
+from skimage.measure import regionprops
 
 
 def process_all_images(path, path_result):
