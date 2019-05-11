@@ -148,8 +148,9 @@ class DataSet:
             line.strip("\n")
             line_split = line.split(";")
             # 0 - filename, 1 - class, 2 - area, 3 - convex_area, 4 - eccentricity, 5 - filled_area, 6 - perimeter,
-            # 7 - solidity
+            # 7 - solidity, 8 - extent, 9 - orientation
             register = Register(line_split[0],
                                 [float(line_split[2]), float(line_split[3]), float(line_split[4]), float(line_split[5]),
-                                 float(line_split[6]), float(line_split[7])], line_split[1])
+                                 float(line_split[6]), float(line_split[7]), float(line_split[8]),
+                                 float(line_split[9])], line_split[1])
             self.data.append(register)

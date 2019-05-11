@@ -24,8 +24,9 @@ if __name__ == "__main__":
     #                           "D:\\Projects\\LeafRecognition\\data\\NewData\\test")
 
     # Extract data from images
+    # print("Extract features...")
     # Extraction.process_train_images("D:\\Projects\\LeafRecognition\\data\\NewData\\train",
-    #                               "D:\\Projects\\LeafRecognition\\data\\train_data.csv")
+    #                                 "D:\\Projects\\LeafRecognition\\data\\train_data.csv")
     # Extraction.process_test_images("D:\\Projects\\LeafRecognition\\data\\NewData\\test",
     #                                "D:\\Projects\\LeafRecognition\\data\\test_data.csv")
 
@@ -34,7 +35,7 @@ if __name__ == "__main__":
     train_data = DataSet("train_data")
     train_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\train_data.csv")
 
-    # print(" Normalizing...")
+    # print("  Normalizing...")
     # train_data.normalize_z_score()
 
     # new_maxs = [1 for i in range(len(train_data.get_data()[0].get_features()))]
@@ -51,7 +52,7 @@ if __name__ == "__main__":
     test_data = DataSet("test_data")
     test_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\test_data.csv")
 
-    # print(" Normalizing...")
+    # print("  Normalizing...")
     # test_data.normalize_z_score()
 
     # test_data.normalize_min_max(new_maxs, new_mins)
