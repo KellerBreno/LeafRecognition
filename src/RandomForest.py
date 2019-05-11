@@ -4,11 +4,11 @@ from src.DecisionTree import DecisionTree
 class RandomForest(object):
     def __init__(self, data, number_trees=100):
         self.data = data
-        self.numberOfTrees = number_trees
+        self.number_trees = number_trees
         self.forest = []
         for i in range(number_trees):
-            bag = data.get_bag()
-            self.forest.append(DecisionTree(bag))
+            subset = data.get_random_subset()
+            self.forest.append(DecisionTree(subset))
 
     def train(self):
         for tree in self.forest:

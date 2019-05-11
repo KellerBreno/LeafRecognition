@@ -29,16 +29,16 @@ class DataSet:
         return len(self.data[0].get_features())
 
     def is_uniform(self):
-        labels = self.get_label_statistics()
+        labels = self.get_dataset_statistics()
         if len(labels.keys()) != 1:
             return False
         return True
 
-    def split_on(self, attribute_number, threshold):
+    def split_on(self, feature_index, threshold):
         left = []
         right = []
         for elem in self.data:
-            if elem.split_left(attribute_number, threshold):
+            if elem.is_less_than(feature_index, threshold):
                 left.append(elem)
             else:
                 right.append(elem)
@@ -46,7 +46,7 @@ class DataSet:
         right_data = DataSet("right", right)
         return left_data, right_data
 
-    def get_label_statistics(self):
+    def get_dataset_statistics(self):
         if self.stats is not None:
             return self.stats
         stats = {}
@@ -62,7 +62,7 @@ class DataSet:
     def get_entropy(self):
         if self.entropy is not None:
             return self.entropy
-        classes = self.get_label_statistics()
+        classes = self.get_dataset_statistics()
         total = len(self.data)
         entropy = 0.0
         for key in classes:
@@ -86,37 +86,24 @@ class DataSet:
                 best_threshold = threshold
         return best_threshold
 
-    def better_threshold(self, feature):
-        totalN = self.get_length()
-        runningTotal = 0.0
+    def get_threshold(self, feature):
+        dataset_length = self.get_length()
+        total = 0.0
 
-        for samp in self.data:
-            runningTotal += samp.get_feature_at_index(feature)
+        for register in self.data:
+            total += register.get_feature_at_index(feature)
 
-        return float(runningTotal) / totalN
+        return float(total) / dataset_length
 
-    def get_bag(self, seed=0):
+    def get_random_subset(self, seed=0):
         if seed != 0:
             random.seed(seed)
-        bag = []
+        subset = []
         for i in range(0, len(self.data)):
-            bag.append(random.choice(self.data))
-        bag_set = DataSet("bag", bag)
-        return bag_set
-
-    def add_register_from_features(self, features, label):
-        register = Register(features, label)
-        self.add_register(register)
-
-    def get_segments(self, k):
-        random_datalist = list(self.data)
-        random.shuffle(random_datalist)
-        slice_size = len(random_datalist) / k
-        data_list = []
-        for i in range(0, len(random_datalist), slice_size):
-            slice = random_datalist[i:i + slice_size]
-            data_list.append(DataSet("slice", slice))
-        return data_list
+            # Amostragem com repetição
+            subset.append(random.choice(self.data))
+        subset = DataSet("subset", subset)
+        return subset
 
     def normalize_z_score(self):
         n = len(self.data)
@@ -152,9 +139,6 @@ class DataSet:
                 index += 1
         for register in self.data:
             register.normalize_min_max(mins, maxs, new_mins, new_maxs)
-
-    def combine_with_new_data(self, new_data):
-        self.data += new_data.get_data()
 
     def read_data_from_file(self, path):
         input_file = open(path, "r")

@@ -1,27 +1,21 @@
-import random
-import sys
-
-import numpy as np
-
-
 class TreeNode:
     def __init__(self, data_set, feature_list, parent=None):
-        self.featureNumber = None
-        self.featureList = feature_list
+        self.feature_number = None
+        self.feature_list = feature_list
         self.threshold = None
-        self.leftChild = None
-        self.rightChild = None
-        self.dataSet = data_set
+        self.left_child = None
+        self.right_child = None
+        self.data_set = data_set
         self.parent = parent
 
     def train(self):
-        if self.dataSet.is_uniform():
-            label = self.dataSet.get_data()[0].get_label()
+        if self.data_set.is_uniform():
+            label = self.data_set.get_data()[0].get_label()
             leaf = LeafNode(label)
             return leaf
 
-        if len(self.featureList) == 0:
-            labels = self.dataSet.get_label_statistics()
+        if len(self.feature_list) == 0:
+            labels = self.data_set.get_dataset_statistics()
             best_label = None
             best_frequency = 0
             for key in labels:
@@ -31,22 +25,19 @@ class TreeNode:
             leaf = LeafNode(best_label)
             return leaf
 
-        current_entropy = self.dataSet.get_entropy()
-        current_length = self.dataSet.get_length()
+        current_entropy = self.data_set.get_entropy()
+        current_length = self.data_set.get_length()
         information_gain = -1 * float("inf")
         best_feature_index = 0
         best_left_set = None
         best_right_set = None
         best_threshold = 0
 
-        # Feature Bagging, Random subspace
-        num = int(np.ceil(np.sqrt(len(self.featureList))))
-        feature_subset = random.sample(self.featureList, num)
+        for featureIndex in self.feature_list:
+            # threshold = self.data_set.get_best_threshold(featureIndex)
+            threshold = self.data_set.get_threshold(featureIndex)
 
-        for featureIndex in feature_subset:
-            threshold = self.dataSet.better_threshold(featureIndex)
-
-            (leftSet, rightSet) = self.dataSet.split_on(featureIndex, threshold)
+            (leftSet, rightSet) = self.data_set.split_on(featureIndex, threshold)
 
             left_entropy = leftSet.get_entropy()
             right_entropy = rightSet.get_entropy()
@@ -61,11 +52,11 @@ class TreeNode:
                 best_feature_index = featureIndex
                 best_threshold = threshold
 
-        new_feature_list = list(self.featureList)
+        new_feature_list = list(self.feature_list)
         new_feature_list.remove(best_feature_index)
 
         if best_left_set.get_length() == 0 or best_right_set.get_length() == 0:
-            labels = self.dataSet.get_label_statistics()
+            labels = self.data_set.get_dataset_statistics()
             best_label = None
             best_frequency = 0
 
@@ -77,49 +68,43 @@ class TreeNode:
             return leaf
 
         self.threshold = best_threshold
-        self.featureNumber = best_feature_index
+        self.feature_number = best_feature_index
 
         left_child = TreeNode(best_left_set, new_feature_list, self)
         right_child = TreeNode(best_right_set, new_feature_list, self)
 
-        self.leftChild = left_child.train()
-        self.rightChild = right_child.train()
+        self.left_child = left_child.train()
+        self.right_child = right_child.train()
 
         return self
 
-    def __str__(self):
-        return str(self.featureList)
-
-    def __repr__(self):
-        return self.__str__()
-
-    def classify(self, sample):
-        value = sample.get_features()[self.featureNumber]
+    def classify(self, register):
+        value = register.get_features()[self.feature_number]
 
         if value < self.threshold:
-            return self.leftChild.classify(sample)
+            return self.left_child.classify(register)
         else:
-            return self.rightChild.classify(sample)
+            return self.right_child.classify(register)
 
 
 class LeafNode:
     def __init__(self, classification):
-        self.classification = classification
+        self.label = classification
 
-    def classify(self, sample):
-        return self.classification
+    def classify(self, register):
+        return self.label
 
 
 class DecisionTree:
     def __init__(self, data):
-        self.rootNode = None
+        self.root_node = None
         self.data = data
 
     def train(self):
         length = self.data.get_feature_length()
         feature_indices = range(length)
-        self.rootNode = TreeNode(self.data, feature_indices)
-        self.rootNode.train()
+        self.root_node = TreeNode(self.data, feature_indices)
+        self.root_node.train()
 
-    def classify(self, sample):
-        return self.rootNode.classify(sample)
+    def classify(self, register):
+        return self.root_node.classify(register)

@@ -30,24 +30,34 @@ if __name__ == "__main__":
     #                                "D:\\Projects\\LeafRecognition\\data\\test_data.csv")
 
     # Retrive data
+    print("Reading train data...")
     train_data = DataSet("train_data")
     train_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\train_data.csv")
-    test_data = DataSet("test_data")
-    test_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\test_data.csv")
 
-    # Normalize data
+    # print(" Normalizing...")
     # train_data.normalize_z_score()
-    # test_data.normalize_z_score()
 
-    new_maxs = [1 for i in range(len(train_data.get_data()[0].get_features()))]
-    new_mins = [0 for i in range(len(train_data.get_data()[0].get_features()))]
-    train_data.normalize_min_max(new_maxs, new_mins)
-    test_data.normalize_min_max(new_maxs, new_mins)
+    # new_maxs = [1 for i in range(len(train_data.get_data()[0].get_features()))]
+    # new_mins = [0 for i in range(len(train_data.get_data()[0].get_features()))]
+    # train_data.normalize_min_max(new_maxs, new_mins)
 
     # Training
+    print("Training...")
     random_forest = RandomForest(train_data)
     random_forest.train()
 
     # Classification
+    print("Reading test data...")
+    test_data = DataSet("test_data")
+    test_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\test_data.csv")
+
+    # print(" Normalizing...")
+    # test_data.normalize_z_score()
+
+    # test_data.normalize_min_max(new_maxs, new_mins)
+
+    print("Classifying...")
     answers = random_forest.classify_all(test_data)
+
+    print("Writing results...")
     export_to_file("D:\\Projects\\LeafRecognition\\data\\submission.csv", answers)

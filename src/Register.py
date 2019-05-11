@@ -47,16 +47,7 @@ class Register:
     def get_label(self):
         return self.label
 
-    def get_random_subset_features(self, seed=0, num=0):
-        if seed != 0:
-            random.seed(seed)
-        if num == 0:
-            num = np.sqrt(len(self.features))
-        sub_features = random.sample(self.features, num)
-        sub_features.shape = (len(sub_features),)  # Change the shape back to a single dimensional numpy array
-        return sub_features
-
-    def split_left(self, attribute_number, threshold):
+    def is_less_than(self, attribute_number, threshold):
         if self.features[attribute_number] <= threshold:
             return True
         return False
