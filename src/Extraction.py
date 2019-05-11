@@ -36,8 +36,8 @@ class Extraction:
                         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + "\n"))
                 # output_file.write(str(
                 #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
-                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
-                #         region.solidity) + "\n"))
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" +
+                #         str(region.solidity) + "\n"))
                 output_file.flush()
         output_file.close()
 
@@ -69,7 +69,7 @@ class Extraction:
                         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + "\n"))
                 # output_file.write(str(
                 #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
-                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
-                #         region.solidity) + "\n"))
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" +
+                #         str(region.solidity) + "\n"))
                 output_file.flush()
         output_file.close()

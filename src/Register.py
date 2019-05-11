@@ -1,16 +1,8 @@
-import numpy as np
-
-
 class Register:
     def __init__(self, filename=None, features=None, label=None):
         self.filename = filename
         self.features = features
         self.label = label
-
-    def set_features(self, features):
-        if (type(features) != np.ndarray) or (len(features.shape) != 1):
-            raise ValueError("The feature vector is not a single dimensional numpy array!")
-        self.features = features
 
     def normalize_z_score(self, means, std_deviations):
         index = 0
