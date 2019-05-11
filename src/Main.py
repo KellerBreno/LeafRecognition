@@ -1,4 +1,5 @@
 from src.DataSet import DataSet
+from src.Extraction import Extraction
 from src.RandomForest import RandomForest
 
 
@@ -23,14 +24,12 @@ if __name__ == "__main__":
     #                           "D:\\Projects\\LeafRecognition\\data\\Segmented",
     #                           "D:\\Projects\\LeafRecognition\\data\\NewData\\test")
 
-    # Extract data from images
     # print("Extract features...")
     # Extraction.process_train_images("D:\\Projects\\LeafRecognition\\data\\NewData\\train",
     #                                 "D:\\Projects\\LeafRecognition\\data\\train_data.csv")
     # Extraction.process_test_images("D:\\Projects\\LeafRecognition\\data\\NewData\\test",
     #                                "D:\\Projects\\LeafRecognition\\data\\test_data.csv")
 
-    # Retrive data
     print("Reading train data...")
     train_data = DataSet("train_data")
     train_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\train_data.csv")
@@ -40,14 +39,14 @@ if __name__ == "__main__":
 
     # new_maxs = [1 for i in range(len(train_data.get_data()[0].get_features()))]
     # new_mins = [0 for i in range(len(train_data.get_data()[0].get_features()))]
-    # train_data.normalize_min_max(new_maxs, new_mins)
+    # train_data.normalize_min_max(new_mins, new_maxs)
 
-    # Training
+    # train_data.export_to_file("D:\\Projects\\LeafRecognition\\data\\train_normalized.csv")
+
     print("Training...")
     random_forest = RandomForest(train_data)
     random_forest.train()
 
-    # Classification
     print("Reading test data...")
     test_data = DataSet("test_data")
     test_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\test_data.csv")
@@ -55,7 +54,9 @@ if __name__ == "__main__":
     # print("  Normalizing...")
     # test_data.normalize_z_score()
 
-    # test_data.normalize_min_max(new_maxs, new_mins)
+    # test_data.normalize_min_max(new_mins, new_maxs)
+
+    # test_data.export_to_file("D:\\Projects\\LeafRecognition\\data\\test_normalized.csv")
 
     print("Classifying...")
     answers = random_forest.classify_all(test_data)

@@ -19,6 +19,8 @@ class Extraction:
         output_file = open(path_result, "w+")
         output_file.write(
             "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation\n")
+        # output_file.write(
+        #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity\n")
         for f in files:
             img = io.imread(f)
             thresh = threshold_otsu(rgb2gray(img))
@@ -32,6 +34,10 @@ class Extraction:
                     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
                         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
                         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + "\n"))
+                # output_file.write(str(
+                #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                #         region.solidity) + "\n"))
                 output_file.flush()
         output_file.close()
 
@@ -46,6 +52,8 @@ class Extraction:
         output_file = open(path_result, "w+")
         output_file.write(
             "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation\n")
+        # output_file.write(
+        #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity\n")
         for f in files:
             img = io.imread(f)
             thresh = threshold_otsu(rgb2gray(img))
@@ -59,5 +67,9 @@ class Extraction:
                     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
                         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
                         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + "\n"))
+                # output_file.write(str(
+                #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                #         region.solidity) + "\n"))
                 output_file.flush()
         output_file.close()

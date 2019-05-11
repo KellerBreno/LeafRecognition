@@ -153,4 +153,20 @@ class DataSet:
                                 [float(line_split[2]), float(line_split[3]), float(line_split[4]), float(line_split[5]),
                                  float(line_split[6]), float(line_split[7]), float(line_split[8]),
                                  float(line_split[9])], line_split[1])
+            # register = Register(line_split[0],
+            #                     [float(line_split[2]), float(line_split[3]), float(line_split[4]), float(line_split[5]),
+            #                      float(line_split[6]), float(line_split[7])], line_split[1])
             self.data.append(register)
+
+    def export_to_file(self, path):
+        output_file = open(path, "w+")
+        output_file.write(
+            "filename,class,area,convex_area,eccentricity,filled_area,perimeter,solidity,extent,orientation\n")
+        for register in self.data:
+            output_file.write(
+                register.get_filename() + "," + register.get_label() + "," + str(
+                    register.get_feature_at_index(0)) + "," + str(register.get_feature_at_index(1)) + "," + str(
+                    register.get_feature_at_index(2)) + "," + str(register.get_feature_at_index(3)) + "," + str(
+                    register.get_feature_at_index(4)) + "," + str(register.get_feature_at_index(5)) + "," + str(
+                    register.get_feature_at_index(6)) + "," + str(register.get_feature_at_index(7)) + "\n")
+        output_file.close()
