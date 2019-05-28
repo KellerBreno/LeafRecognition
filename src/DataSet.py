@@ -170,3 +170,21 @@ class DataSet:
                     register.get_feature_at_index(4)) + "," + str(register.get_feature_at_index(5)) + "," + str(
                     register.get_feature_at_index(6)) + "," + str(register.get_feature_at_index(7)) + "\n")
         output_file.close()
+
+    def get_labels(self):
+        labels = []
+        for i in range(0, len(self.data)):
+            labels.append(self.data[i].get_label())
+        return labels
+
+    def get_features(self):
+        features = []
+        for i in range(0, len(self.data)):
+            features.append(self.data[i].get_features())
+        return features
+
+    def get_ids(self):
+        ids = []
+        for i in range(0, len(self.data)):
+            ids.append(self.data[i].get_filename())
+        return ids
