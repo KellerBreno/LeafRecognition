@@ -5,6 +5,7 @@ from skimage import io
 from skimage.color import rgb2gray
 from skimage.filters import threshold_otsu
 from skimage.measure import regionprops
+from skimage.transform import resize
 
 
 class Extraction:
@@ -56,6 +57,7 @@ class Extraction:
         #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity\n")
         for f in files:
             img = io.imread(f)
+            img = resize(img, (400, 400))
             thresh = threshold_otsu(rgb2gray(img))
             binary = rgb2gray(img) > thresh
             regions = regionprops(uint8(binary))

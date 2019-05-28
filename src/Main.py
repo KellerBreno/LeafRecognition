@@ -26,9 +26,9 @@ if __name__ == "__main__":
 
     # print("Extract features...")
     # Extraction.process_train_images("D:\\Projects\\LeafRecognition\\data\\NewData\\train",
-    #                                 "D:\\Projects\\LeafRecognition\\data\\train_data.csv")
+    #                                 "D:\\Projects\\LeafRecognition\\data\\train_data_resized.csv")
     # Extraction.process_test_images("D:\\Projects\\LeafRecognition\\data\\NewData\\test",
-    #                                "D:\\Projects\\LeafRecognition\\data\\test_data.csv")
+    #                                "D:\\Projects\\LeafRecognition\\data\\test_data_resized.csv")
 
     print("Reading train data...")
     train_data = DataSet("train_data")
