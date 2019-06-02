@@ -4,6 +4,7 @@ from sklearn.model_selection import StratifiedKFold
 from sklearn.model_selection import cross_val_score
 from sklearn.naive_bayes import BernoulliNB, GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.preprocessing import Normalizer
 from sklearn.tree import DecisionTreeClassifier
 
 from src.DataSet import DataSet
@@ -42,13 +43,13 @@ if __name__ == "__main__":
     # train_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\train_data_new_version.csv")
     # train_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\train_data_kurtosis.csv")
     train_data.read_data_from_file("D:\\Projects\\LeafRecognition\\data\\train_data_kurtosis_new_version.csv")
+    # train_data = train_data.get_balanced_dataset()
     train_features = train_data.get_features()
     train_labels = train_data.get_labels()
 
-    # print("  Normalizing...")
-    # train_features = Normalizer().fit_transform(train_features)
+    print("  Normalizing...")
+    train_features = Normalizer().fit_transform(train_features)
 
-    # for i in range(1, 50, 2):
     print("Training...")
     random_forest_entropy = RandomForestClassifier(n_estimators=100, criterion="entropy", n_jobs=-1)
     random_forest_gini = RandomForestClassifier(n_estimators=100, criterion="gini", n_jobs=-1)
@@ -70,7 +71,10 @@ if __name__ == "__main__":
     bagging_knn_distance_manhatan = BaggingClassifier(knn_distance_manhatan, n_estimators=100, n_jobs=-1)
     bagging_gaussian = BaggingClassifier(gaussian_bayes, n_estimators=100, n_jobs=-1)
     bagging_bernoulli = BaggingClassifier(bernoulli_bayes, n_estimators=100, n_jobs=-1)
+    bagging_decision_tree_gini = BaggingClassifier(tree_gini, n_estimators=100, n_jobs=-1)
+    bagging_decision_tree_entropy = BaggingClassifier(tree_entropy, n_estimators=100, n_jobs=-1)
 
+    # clf = RandomForestClassifier(n_estimators=100, criterion="entropy", n_jobs=-1)
     # clf.fit(train_features, train_labels)
 
     # print(" Normalize...")
@@ -225,6 +229,20 @@ if __name__ == "__main__":
         print("  Accuracy - Bagging - Gaussian: %0.5f" % scores.mean())
     except:
         print("  ERROR: Bagging - Gaussian")
+
+    try:
+        scores = cross_val_score(bagging_decision_tree_entropy, train_features, y=train_labels, cv=skf, n_jobs=-1,
+                                 error_score=np.nan)
+        print("  Accuracy - Bagging - Tree - Entropy: %0.5f" % scores.mean())
+    except:
+        print("  ERROR: Bagging - Tree - Entropy")
+
+    try:
+        scores = cross_val_score(bagging_decision_tree_gini, train_features, y=train_labels, cv=skf, n_jobs=-1,
+                                 error_score=np.nan)
+        print("  Accuracy - Bagging - Tree - Gini: %0.5f" % scores.mean())
+    except:
+        print("  ERROR: Bagging - Tree - Gini")
 
     # print("Reading test data...")
     # test_data = DataSet("test_data")

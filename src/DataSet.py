@@ -188,3 +188,38 @@ class DataSet:
         for i in range(0, len(self.data)):
             ids.append(self.data[i].get_filename())
         return ids
+
+    def get_balanced_dataset(self):
+        list_label = []
+        for label in self.get_labels():
+            aux = True
+            for l in list_label:
+                if l == label:
+                    aux = False
+                    break
+            if aux:
+                list_label.append(label)
+        i = len(list_label)
+        data_list = [[] for j in range(i)]
+        for j in range(0, i):
+            data_list[j] = []
+        for d in self.data:
+            aux = 0
+            for label in list_label:
+                if d.get_label() == label:
+                    data_list[aux].append(d)
+                    break
+                aux = aux + 1
+        min = float("inf")
+        for j in range(0, i):
+            if len(data_list[j]) < min:
+                min = len(data_list[j])
+        for j in range(0, i):
+            exclude = len(data_list[j]) - min
+            for k in range(0, exclude):
+                sort = random.randrange(0, len(data_list[j]))
+                del data_list[j][sort]
+        new_data = []
+        for j in range(0, i):
+            new_data = new_data + data_list[j]
+        return DataSet("balanced", new_data)
