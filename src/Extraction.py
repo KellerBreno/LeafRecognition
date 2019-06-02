@@ -1,6 +1,7 @@
 import os
 
 from numpy import uint8
+from scipy.stats import kurtosis
 from skimage import io
 from skimage.color import rgb2gray
 from skimage.filters import threshold_otsu
@@ -18,10 +19,26 @@ class Extraction:
                     files.append(os.path.join(r, file))
 
         output_file = open(path_result, "w+")
-        output_file.write(
-            "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation\n")
+        # ========================================= V1 =================================================================
         # output_file.write(
         #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity\n")
+
+        # ========================================= V2 =================================================================
+        # output_file.write(
+        #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation\n")
+
+        # ========================================= V3 =================================================================
+        # output_file.write(
+        #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation;kurtosis\n")
+
+        # ========================================= V4 =================================================================
+        # output_file.write(
+        #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation;hu0;hu1;hu2;hu3;hu4;hu5;hu6\n")
+
+        # ========================================= V5 =================================================================
+        output_file.write(
+            "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation;kurtosis;hu0;hu1;hu2;hu3;hu4;hu5;hu6\n")
+
         for f in files:
             img = io.imread(f)
             thresh = threshold_otsu(rgb2gray(img))
@@ -31,14 +48,45 @@ class Extraction:
                 segments = f.split("\\")
                 filename = segments[len(segments) - 1]
                 classname = segments[len(segments) - 2]
-                output_file.write(str(
-                    filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
-                        region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
-                        region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + "\n"))
+                # ========================================= V1 =========================================================
                 # output_file.write(str(
                 #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
                 #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" +
                 #         str(region.solidity) + "\n"))
+
+                # ========================================= V2 =========================================================
+                # output_file.write(str(
+                #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                #         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + "\n"))
+
+                # ========================================= V3 =========================================================
+                # output_file.write(str(
+                #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                #         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + ";" + str(
+                #         kurtosis(kurtosis(binary))) + "\n"))
+
+                # ========================================= V4 =========================================================
+                # output_file.write(str(
+                #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                #         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + ";" + str(
+                #         region.moments_hu[0]) + ";" + str(region.moments_hu[1]) + ";" + str(
+                #         region.moments_hu[2]) + ";" + str(region.moments_hu[3]) + ";" + str(
+                #         region.moments_hu[4]) + ";" + str(region.moments_hu[5]) + ";" + str(
+                #         region.moments_hu[6]) + "\n"))
+
+                # ========================================= V5 =========================================================
+                output_file.write(str(
+                    filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                        region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                        region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + ";" + str(
+                        kurtosis(kurtosis(binary))) + ";" + str(region.moments_hu[0]) + ";" + str(
+                        region.moments_hu[1]) + ";" + str(region.moments_hu[2]) + ";" + str(
+                        region.moments_hu[3]) + ";" + str(region.moments_hu[4]) + ";" + str(
+                        region.moments_hu[5]) + ";" + str(region.moments_hu[6]) + "\n"))
+
                 output_file.flush()
         output_file.close()
 
@@ -51,13 +99,28 @@ class Extraction:
                     files.append(os.path.join(r, file))
 
         output_file = open(path_result, "w+")
-        output_file.write(
-            "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation\n")
+        # ========================================= V1 =================================================================
         # output_file.write(
         #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity\n")
+
+        # ========================================= V2 =================================================================
+        # output_file.write(
+        #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation\n")
+
+        # ========================================= V3 =================================================================
+        # output_file.write(
+        #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation;kurtosis\n")
+
+        # ========================================= V4 =================================================================
+        # output_file.write(
+        #     "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation;hu0;hu1;hu2;hu3;hu4;hu5;hu6\n")
+
+        # ========================================= V5 =================================================================
+        output_file.write(
+            "filename;class;area;convex_area;eccentricity;filled_area;perimeter;solidity;extent;orientation;kurtosis;hu0;hu1;hu2;hu3;hu4;hu5;hu6\n")
+
         for f in files:
             img = io.imread(f)
-            img = resize(img, (400, 400))
             thresh = threshold_otsu(rgb2gray(img))
             binary = rgb2gray(img) > thresh
             regions = regionprops(uint8(binary))
@@ -65,13 +128,44 @@ class Extraction:
                 segments = f.split("\\")
                 filename = segments[len(segments) - 1]
                 classname = ""
-                output_file.write(str(
-                    filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
-                        region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
-                        region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + "\n"))
+                # ========================================= V1 =========================================================
                 # output_file.write(str(
                 #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
                 #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" +
                 #         str(region.solidity) + "\n"))
+
+                # ========================================= V2 =========================================================
+                # output_file.write(str(
+                #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                #         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + "\n"))
+
+                # ========================================= V3 =========================================================
+                # output_file.write(str(
+                #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                #         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + ";" + str(
+                #         kurtosis(kurtosis(binary))) + "\n"))
+
+                # ========================================= V4 =========================================================
+                # output_file.write(str(
+                #     filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                #         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                #         region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + ";" + str(
+                #         region.moments_hu[0]) + ";" + str(region.moments_hu[1]) + ";" + str(
+                #         region.moments_hu[2]) + ";" + str(region.moments_hu[3]) + ";" + str(
+                #         region.moments_hu[4]) + ";" + str(region.moments_hu[5]) + ";" + str(
+                #         region.moments_hu[6]) + "\n"))
+
+                # ========================================= V5 =========================================================
+                output_file.write(str(
+                    filename + ";" + classname + ";" + str(region.area) + ";" + str(region.convex_area) + ";" + str(
+                        region.eccentricity) + ";" + str(region.filled_area) + ";" + str(region.perimeter) + ";" + str(
+                        region.solidity) + ";" + str(region.extent) + ";" + str(region.orientation) + ";" + str(
+                        kurtosis(kurtosis(binary))) + ";" + str(region.moments_hu[0]) + ";" + str(
+                        region.moments_hu[1]) + ";" + str(region.moments_hu[2]) + ";" + str(
+                        region.moments_hu[3]) + ";" + str(region.moments_hu[4]) + ";" + str(
+                        region.moments_hu[5]) + ";" + str(region.moments_hu[6]) + "\n"))
+
                 output_file.flush()
         output_file.close()

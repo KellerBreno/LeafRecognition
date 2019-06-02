@@ -183,7 +183,7 @@ class DataSet:
             features.append(self.data[i].get_features())
         return features
 
-    def get_ids(self):
+    def get_filenames(self):
         ids = []
         for i in range(0, len(self.data)):
             ids.append(self.data[i].get_filename())
