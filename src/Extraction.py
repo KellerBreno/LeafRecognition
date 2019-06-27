@@ -98,7 +98,7 @@ class Extraction:
                         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(
                         region.centroid[0]) + ";" + str(region.centroid[1]) + ";" + str(
                         region.perimeter) + ";" + str(region.solidity) + ";" + str(region.extent) + ";" + str(
-                        region.orientation) + ";" + str(kurtosis(kurtosis(region.image))) + ";" + str(
+                        region.orientation) + ";" + str(kurtosis(hist)) + ";" + str(
                         region.moments_hu[0]) + ";" + str(region.moments_hu[1]) + ";" + str(
                         region.moments_hu[2]) + ";" + str(region.moments_hu[3]) + ";" + str(
                         region.moments_hu[4]) + ";" + str(region.moments_hu[5]) + ";" + str(
@@ -195,7 +195,7 @@ class Extraction:
                         region.eccentricity) + ";" + str(region.filled_area) + ";" + str(
                         region.centroid[0]) + ";" + str(region.centroid[1]) + ";" + str(
                         region.perimeter) + ";" + str(region.solidity) + ";" + str(region.extent) + ";" + str(
-                        region.orientation) + ";" + str(kurtosis(kurtosis(region.image))) + ";" + str(
+                        region.orientation) + ";" + str(kurtosis(hist)) + ";" + str(
                         region.moments_hu[0]) + ";" + str(region.moments_hu[1]) + ";" + str(
                         region.moments_hu[2]) + ";" + str(region.moments_hu[3]) + ";" + str(
                         region.moments_hu[4]) + ";" + str(region.moments_hu[5]) + ";" + str(
